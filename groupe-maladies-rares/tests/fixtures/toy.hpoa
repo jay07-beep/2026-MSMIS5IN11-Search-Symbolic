@@ -1,0 +1,14 @@
+#description: "toy annotations"
+#version: toy-2026
+database_id	disease_name	qualifier	hpo_id	reference	evidence	onset	frequency	sex	modifier	aspect	biocuration
+ORPHA:1	Marfan-like		HP:9000098	PMID:1	TAS		HP:0040281			P	HPO:toy
+ORPHA:1	Marfan-like		HP:9000021	PMID:1	TAS		HP:0040281			P	HPO:toy
+ORPHA:1	Marfan-like		HP:9000022	PMID:1	TAS		1/2			P	HPO:toy
+ORPHA:2	Eye-skin syndrome		HP:9000099	PMID:1	TAS		HP:0040282			P	HPO:toy
+ORPHA:2	Eye-skin syndrome		HP:9000040	PMID:1	TAS					P	HPO:toy
+ORPHA:3	Skeletal disorder		HP:9000021	PMID:1	TAS		50%			P	HPO:toy
+ORPHA:3	Skeletal disorder	NOT	HP:9000040	PMID:1	TAS					P	HPO:toy
+ORPHA:3	Skeletal disorder		HP:0000005	PMID:1	TAS					I	HPO:toy
+ORPHA:4	Lens disorder		HP:9000011	PMID:1	TAS		HP:0040283			P	HPO:toy
+OMIM:5	Not an Orphanet disease		HP:9000012	PMID:1	TAS					P	HPO:toy
+ORPHA:6	Only clinical course		HP:9000012	PMID:1	TAS					C	HPO:toy

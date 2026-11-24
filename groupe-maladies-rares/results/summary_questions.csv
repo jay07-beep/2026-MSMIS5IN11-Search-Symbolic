@@ -1,0 +1,13 @@
+method,questions,top1,top10,MRR
+aucune question,0,0.09,0.525,0.247
+aucune question,1,0.09,0.525,0.247
+aucune question,2,0.09,0.525,0.247
+aucune question,3,0.09,0.525,0.247
+question au hasard,0,0.09,0.525,0.247
+question au hasard,1,0.105,0.55,0.262
+question au hasard,2,0.12,0.575,0.281
+question au hasard,3,0.125,0.59,0.296
+gain d'information max,0,0.09,0.525,0.247
+gain d'information max,1,0.17,0.625,0.331
+gain d'information max,2,0.22,0.675,0.397
+gain d'information max,3,0.305,0.74,0.475

@@ -1,0 +1,65 @@
+{
+  "hpo_version": "hp/releases/2026-09-01",
+  "annotations_version": "2026-09-02",
+  "n_diseases": 4355,
+  "n_terms": 19178,
+  "n_patients_per_scenario": 500,
+  "seed": 42,
+  "scenarios": [
+    {
+      "name": "parfait",
+      "n_terms": 5,
+      "imprecision": 0.0,
+      "imprecision_steps": 1,
+      "noise": 0,
+      "n_absent": 0,
+      "absent_mode": "differential"
+    },
+    {
+      "name": "imprécision 50 %",
+      "n_terms": 5,
+      "imprecision": 0.5,
+      "imprecision_steps": 1,
+      "noise": 0,
+      "n_absent": 0,
+      "absent_mode": "differential"
+    },
+    {
+      "name": "imprécision 100 %",
+      "n_terms": 5,
+      "imprecision": 1.0,
+      "imprecision_steps": 1,
+      "noise": 0,
+      "n_absent": 0,
+      "absent_mode": "differential"
+    },
+    {
+      "name": "bruit +2",
+      "n_terms": 5,
+      "imprecision": 0.0,
+      "imprecision_steps": 1,
+      "noise": 2,
+      "n_absent": 0,
+      "absent_mode": "differential"
+    },
+    {
+      "name": "imprécision 50 % + bruit +2",
+      "n_terms": 5,
+      "imprecision": 0.5,
+      "imprecision_steps": 1,
+      "noise": 2,
+      "n_absent": 0,
+      "absent_mode": "differential"
+    },
+    {
+      "name": "3 signes, imprécision 50 % + bruit +1",
+      "n_terms": 3,
+      "imprecision": 0.5,
+      "imprecision_steps": 1,
+      "noise": 1,
+      "n_absent": 0,
+      "absent_mode": "differential"
+    }
+  ],
+  "runtime_s": 155.9
+}

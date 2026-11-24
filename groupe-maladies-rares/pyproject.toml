@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rarediag"
+version = "1.0.0"
+description = "Diagnostic différentiel des maladies rares par similarité sémantique sur HPO"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "pandas>=2.0", "matplotlib>=3.10", "pronto>=2.5", "owlready2>=0.45"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "nbformat", "nbconvert", "ipykernel"]
+app = ["streamlit>=1.49"]
+
+[project.scripts]
+rarediag = "rarediag.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "tests"]
+testpaths = ["tests"]
