@@ -1,0 +1,31 @@
+scenario,method,top1,top10,rang_median,MRR
+parfait,Mots-clés (baseline),0.554,0.84,1.0,0.65
+parfait,Termes exacts (Jaccard),0.658,0.91,1.0,0.747
+parfait,Jaccard hiérarchique,0.388,0.634,3.0,0.475
+parfait,Resnik Q→D,0.838,0.99,1.0,0.923
+parfait,Resnik symétrique,0.89,0.996,1.0,0.932
+imprécision 50 %,Mots-clés (baseline),0.338,0.6,5.0,0.428
+imprécision 50 %,Termes exacts (Jaccard),0.308,0.596,5.0,0.405
+imprécision 50 %,Jaccard hiérarchique,0.3,0.542,8.0,0.378
+imprécision 50 %,Resnik Q→D,0.704,0.968,1.0,0.826
+imprécision 50 %,Resnik symétrique,0.784,0.986,1.0,0.862
+imprécision 100 %,Mots-clés (baseline),0.068,0.274,42.25,0.131
+imprécision 100 %,Termes exacts (Jaccard),0.004,0.032,2219.75,0.014
+imprécision 100 %,Jaccard hiérarchique,0.202,0.402,23.0,0.271
+imprécision 100 %,Resnik Q→D,0.386,0.88,1.5,0.593
+imprécision 100 %,Resnik symétrique,0.602,0.928,1.0,0.714
+bruit +2,Mots-clés (baseline),0.598,0.844,1.0,0.688
+bruit +2,Termes exacts (Jaccard),0.712,0.928,1.0,0.789
+bruit +2,Jaccard hiérarchique,0.404,0.666,3.0,0.492
+bruit +2,Resnik Q→D,0.65,0.924,1.0,0.756
+bruit +2,Resnik symétrique,0.736,0.968,1.0,0.823
+imprécision 50 % + bruit +2,Mots-clés (baseline),0.344,0.6,4.0,0.434
+imprécision 50 % + bruit +2,Termes exacts (Jaccard),0.316,0.598,5.0,0.414
+imprécision 50 % + bruit +2,Jaccard hiérarchique,0.334,0.526,7.0,0.404
+imprécision 50 % + bruit +2,Resnik Q→D,0.402,0.8,2.0,0.542
+imprécision 50 % + bruit +2,Resnik symétrique,0.534,0.874,1.0,0.647
+"3 signes, imprécision 50 % + bruit +1",Mots-clés (baseline),0.178,0.424,21.25,0.269
+"3 signes, imprécision 50 % + bruit +1",Termes exacts (Jaccard),0.154,0.41,18.0,0.252
+"3 signes, imprécision 50 % + bruit +1",Jaccard hiérarchique,0.13,0.332,34.0,0.198
+"3 signes, imprécision 50 % + bruit +1",Resnik Q→D,0.252,0.622,5.5,0.38
+"3 signes, imprécision 50 % + bruit +1",Resnik symétrique,0.352,0.696,3.0,0.473

@@ -1,0 +1,2401 @@
+patient,method,questions,rank,scenario
+0,aucune question,0,4.5,consultation
+0,aucune question,1,4.5,consultation
+0,aucune question,2,4.5,consultation
+0,aucune question,3,4.5,consultation
+1,aucune question,0,15.0,consultation
+1,aucune question,1,15.0,consultation
+1,aucune question,2,15.0,consultation
+1,aucune question,3,15.0,consultation
+2,aucune question,0,477.5,consultation
+2,aucune question,1,477.5,consultation
+2,aucune question,2,477.5,consultation
+2,aucune question,3,477.5,consultation
+3,aucune question,0,20.5,consultation
+3,aucune question,1,20.5,consultation
+3,aucune question,2,20.5,consultation
+3,aucune question,3,20.5,consultation
+4,aucune question,0,5.5,consultation
+4,aucune question,1,5.5,consultation
+4,aucune question,2,5.5,consultation
+4,aucune question,3,5.5,consultation
+5,aucune question,0,2.5,consultation
+5,aucune question,1,2.5,consultation
+5,aucune question,2,2.5,consultation
+5,aucune question,3,2.5,consultation
+6,aucune question,0,26.0,consultation
+6,aucune question,1,26.0,consultation
+6,aucune question,2,26.0,consultation
+6,aucune question,3,26.0,consultation
+7,aucune question,0,2.5,consultation
+7,aucune question,1,2.5,consultation
+7,aucune question,2,2.5,consultation
+7,aucune question,3,2.5,consultation
+8,aucune question,0,185.0,consultation
+8,aucune question,1,185.0,consultation
+8,aucune question,2,185.0,consultation
+8,aucune question,3,185.0,consultation
+9,aucune question,0,33.0,consultation
+9,aucune question,1,33.0,consultation
+9,aucune question,2,33.0,consultation
+9,aucune question,3,33.0,consultation
+10,aucune question,0,18.0,consultation
+10,aucune question,1,18.0,consultation
+10,aucune question,2,18.0,consultation
+10,aucune question,3,18.0,consultation
+11,aucune question,0,27.5,consultation
+11,aucune question,1,27.5,consultation
+11,aucune question,2,27.5,consultation
+11,aucune question,3,27.5,consultation
+12,aucune question,0,1.5,consultation
+12,aucune question,1,1.5,consultation
+12,aucune question,2,1.5,consultation
+12,aucune question,3,1.5,consultation
+13,aucune question,0,1.5,consultation
+13,aucune question,1,1.5,consultation
+13,aucune question,2,1.5,consultation
+13,aucune question,3,1.5,consultation
+14,aucune question,0,22.5,consultation
+14,aucune question,1,22.5,consultation
+14,aucune question,2,22.5,consultation
+14,aucune question,3,22.5,consultation
+15,aucune question,0,2.0,consultation
+15,aucune question,1,2.0,consultation
+15,aucune question,2,2.0,consultation
+15,aucune question,3,2.0,consultation
+16,aucune question,0,11.0,consultation
+16,aucune question,1,11.0,consultation
+16,aucune question,2,11.0,consultation
+16,aucune question,3,11.0,consultation
+17,aucune question,0,18.0,consultation
+17,aucune question,1,18.0,consultation
+17,aucune question,2,18.0,consultation
+17,aucune question,3,18.0,consultation
+18,aucune question,0,28.5,consultation
+18,aucune question,1,28.5,consultation
+18,aucune question,2,28.5,consultation
+18,aucune question,3,28.5,consultation
+19,aucune question,0,35.0,consultation
+19,aucune question,1,35.0,consultation
+19,aucune question,2,35.0,consultation
+19,aucune question,3,35.0,consultation
+20,aucune question,0,3.0,consultation
+20,aucune question,1,3.0,consultation
+20,aucune question,2,3.0,consultation
+20,aucune question,3,3.0,consultation
+21,aucune question,0,5.0,consultation
+21,aucune question,1,5.0,consultation
+21,aucune question,2,5.0,consultation
+21,aucune question,3,5.0,consultation
+22,aucune question,0,129.5,consultation
+22,aucune question,1,129.5,consultation
+22,aucune question,2,129.5,consultation
+22,aucune question,3,129.5,consultation
+23,aucune question,0,628.0,consultation
+23,aucune question,1,628.0,consultation
+23,aucune question,2,628.0,consultation
+23,aucune question,3,628.0,consultation
+24,aucune question,0,140.5,consultation
+24,aucune question,1,140.5,consultation
+24,aucune question,2,140.5,consultation
+24,aucune question,3,140.5,consultation
+25,aucune question,0,3.0,consultation
+25,aucune question,1,3.0,consultation
+25,aucune question,2,3.0,consultation
+25,aucune question,3,3.0,consultation
+26,aucune question,0,1.0,consultation
+26,aucune question,1,1.0,consultation
+26,aucune question,2,1.0,consultation
+26,aucune question,3,1.0,consultation
+27,aucune question,0,2.0,consultation
+27,aucune question,1,2.0,consultation
+27,aucune question,2,2.0,consultation
+27,aucune question,3,2.0,consultation
+28,aucune question,0,20.0,consultation
+28,aucune question,1,20.0,consultation
+28,aucune question,2,20.0,consultation
+28,aucune question,3,20.0,consultation
+29,aucune question,0,4.0,consultation
+29,aucune question,1,4.0,consultation
+29,aucune question,2,4.0,consultation
+29,aucune question,3,4.0,consultation
+30,aucune question,0,24.0,consultation
+30,aucune question,1,24.0,consultation
+30,aucune question,2,24.0,consultation
+30,aucune question,3,24.0,consultation
+31,aucune question,0,117.0,consultation
+31,aucune question,1,117.0,consultation
+31,aucune question,2,117.0,consultation
+31,aucune question,3,117.0,consultation
+32,aucune question,0,1.5,consultation
+32,aucune question,1,1.5,consultation
+32,aucune question,2,1.5,consultation
+32,aucune question,3,1.5,consultation
+33,aucune question,0,2.0,consultation
+33,aucune question,1,2.0,consultation
+33,aucune question,2,2.0,consultation
+33,aucune question,3,2.0,consultation
+34,aucune question,0,12.5,consultation
+34,aucune question,1,12.5,consultation
+34,aucune question,2,12.5,consultation
+34,aucune question,3,12.5,consultation
+35,aucune question,0,53.5,consultation
+35,aucune question,1,53.5,consultation
+35,aucune question,2,53.5,consultation
+35,aucune question,3,53.5,consultation
+36,aucune question,0,79.0,consultation
+36,aucune question,1,79.0,consultation
+36,aucune question,2,79.0,consultation
+36,aucune question,3,79.0,consultation
+37,aucune question,0,20.0,consultation
+37,aucune question,1,20.0,consultation
+37,aucune question,2,20.0,consultation
+37,aucune question,3,20.0,consultation
+38,aucune question,0,7.5,consultation
+38,aucune question,1,7.5,consultation
+38,aucune question,2,7.5,consultation
+38,aucune question,3,7.5,consultation
+39,aucune question,0,3.5,consultation
+39,aucune question,1,3.5,consultation
+39,aucune question,2,3.5,consultation
+39,aucune question,3,3.5,consultation
+40,aucune question,0,5.0,consultation
+40,aucune question,1,5.0,consultation
+40,aucune question,2,5.0,consultation
+40,aucune question,3,5.0,consultation
+41,aucune question,0,91.5,consultation
+41,aucune question,1,91.5,consultation
+41,aucune question,2,91.5,consultation
+41,aucune question,3,91.5,consultation
+42,aucune question,0,10.5,consultation
+42,aucune question,1,10.5,consultation
+42,aucune question,2,10.5,consultation
+42,aucune question,3,10.5,consultation
+43,aucune question,0,14.5,consultation
+43,aucune question,1,14.5,consultation
+43,aucune question,2,14.5,consultation
+43,aucune question,3,14.5,consultation
+44,aucune question,0,2.0,consultation
+44,aucune question,1,2.0,consultation
+44,aucune question,2,2.0,consultation
+44,aucune question,3,2.0,consultation
+45,aucune question,0,2.0,consultation
+45,aucune question,1,2.0,consultation
+45,aucune question,2,2.0,consultation
+45,aucune question,3,2.0,consultation
+46,aucune question,0,23.0,consultation
+46,aucune question,1,23.0,consultation
+46,aucune question,2,23.0,consultation
+46,aucune question,3,23.0,consultation
+47,aucune question,0,44.5,consultation
+47,aucune question,1,44.5,consultation
+47,aucune question,2,44.5,consultation
+47,aucune question,3,44.5,consultation
+48,aucune question,0,66.0,consultation
+48,aucune question,1,66.0,consultation
+48,aucune question,2,66.0,consultation
+48,aucune question,3,66.0,consultation
+49,aucune question,0,2.0,consultation
+49,aucune question,1,2.0,consultation
+49,aucune question,2,2.0,consultation
+49,aucune question,3,2.0,consultation
+50,aucune question,0,6.5,consultation
+50,aucune question,1,6.5,consultation
+50,aucune question,2,6.5,consultation
+50,aucune question,3,6.5,consultation
+51,aucune question,0,5.5,consultation
+51,aucune question,1,5.5,consultation
+51,aucune question,2,5.5,consultation
+51,aucune question,3,5.5,consultation
+52,aucune question,0,3.0,consultation
+52,aucune question,1,3.0,consultation
+52,aucune question,2,3.0,consultation
+52,aucune question,3,3.0,consultation
+53,aucune question,0,613.0,consultation
+53,aucune question,1,613.0,consultation
+53,aucune question,2,613.0,consultation
+53,aucune question,3,613.0,consultation
+54,aucune question,0,23.5,consultation
+54,aucune question,1,23.5,consultation
+54,aucune question,2,23.5,consultation
+54,aucune question,3,23.5,consultation
+55,aucune question,0,5.5,consultation
+55,aucune question,1,5.5,consultation
+55,aucune question,2,5.5,consultation
+55,aucune question,3,5.5,consultation
+56,aucune question,0,2.5,consultation
+56,aucune question,1,2.5,consultation
+56,aucune question,2,2.5,consultation
+56,aucune question,3,2.5,consultation
+57,aucune question,0,9.0,consultation
+57,aucune question,1,9.0,consultation
+57,aucune question,2,9.0,consultation
+57,aucune question,3,9.0,consultation
+58,aucune question,0,3.5,consultation
+58,aucune question,1,3.5,consultation
+58,aucune question,2,3.5,consultation
+58,aucune question,3,3.5,consultation
+59,aucune question,0,49.5,consultation
+59,aucune question,1,49.5,consultation
+59,aucune question,2,49.5,consultation
+59,aucune question,3,49.5,consultation
+60,aucune question,0,2.0,consultation
+60,aucune question,1,2.0,consultation
+60,aucune question,2,2.0,consultation
+60,aucune question,3,2.0,consultation
+61,aucune question,0,11.5,consultation
+61,aucune question,1,11.5,consultation
+61,aucune question,2,11.5,consultation
+61,aucune question,3,11.5,consultation
+62,aucune question,0,4.5,consultation
+62,aucune question,1,4.5,consultation
+62,aucune question,2,4.5,consultation
+62,aucune question,3,4.5,consultation
+63,aucune question,0,27.0,consultation
+63,aucune question,1,27.0,consultation
+63,aucune question,2,27.0,consultation
+63,aucune question,3,27.0,consultation
+64,aucune question,0,14.5,consultation
+64,aucune question,1,14.5,consultation
+64,aucune question,2,14.5,consultation
+64,aucune question,3,14.5,consultation
+65,aucune question,0,1.0,consultation
+65,aucune question,1,1.0,consultation
+65,aucune question,2,1.0,consultation
+65,aucune question,3,1.0,consultation
+66,aucune question,0,1.0,consultation
+66,aucune question,1,1.0,consultation
+66,aucune question,2,1.0,consultation
+66,aucune question,3,1.0,consultation
+67,aucune question,0,73.5,consultation
+67,aucune question,1,73.5,consultation
+67,aucune question,2,73.5,consultation
+67,aucune question,3,73.5,consultation
+68,aucune question,0,4.5,consultation
+68,aucune question,1,4.5,consultation
+68,aucune question,2,4.5,consultation
+68,aucune question,3,4.5,consultation
+69,aucune question,0,2.5,consultation
+69,aucune question,1,2.5,consultation
+69,aucune question,2,2.5,consultation
+69,aucune question,3,2.5,consultation
+70,aucune question,0,1.0,consultation
+70,aucune question,1,1.0,consultation
+70,aucune question,2,1.0,consultation
+70,aucune question,3,1.0,consultation
+71,aucune question,0,6.5,consultation
+71,aucune question,1,6.5,consultation
+71,aucune question,2,6.5,consultation
+71,aucune question,3,6.5,consultation
+72,aucune question,0,5.5,consultation
+72,aucune question,1,5.5,consultation
+72,aucune question,2,5.5,consultation
+72,aucune question,3,5.5,consultation
+73,aucune question,0,1.0,consultation
+73,aucune question,1,1.0,consultation
+73,aucune question,2,1.0,consultation
+73,aucune question,3,1.0,consultation
+74,aucune question,0,2.0,consultation
+74,aucune question,1,2.0,consultation
+74,aucune question,2,2.0,consultation
+74,aucune question,3,2.0,consultation
+75,aucune question,0,6.0,consultation
+75,aucune question,1,6.0,consultation
+75,aucune question,2,6.0,consultation
+75,aucune question,3,6.0,consultation
+76,aucune question,0,4.5,consultation
+76,aucune question,1,4.5,consultation
+76,aucune question,2,4.5,consultation
+76,aucune question,3,4.5,consultation
+77,aucune question,0,218.5,consultation
+77,aucune question,1,218.5,consultation
+77,aucune question,2,218.5,consultation
+77,aucune question,3,218.5,consultation
+78,aucune question,0,1.0,consultation
+78,aucune question,1,1.0,consultation
+78,aucune question,2,1.0,consultation
+78,aucune question,3,1.0,consultation
+79,aucune question,0,55.0,consultation
+79,aucune question,1,55.0,consultation
+79,aucune question,2,55.0,consultation
+79,aucune question,3,55.0,consultation
+80,aucune question,0,97.5,consultation
+80,aucune question,1,97.5,consultation
+80,aucune question,2,97.5,consultation
+80,aucune question,3,97.5,consultation
+81,aucune question,0,41.0,consultation
+81,aucune question,1,41.0,consultation
+81,aucune question,2,41.0,consultation
+81,aucune question,3,41.0,consultation
+82,aucune question,0,10.0,consultation
+82,aucune question,1,10.0,consultation
+82,aucune question,2,10.0,consultation
+82,aucune question,3,10.0,consultation
+83,aucune question,0,28.5,consultation
+83,aucune question,1,28.5,consultation
+83,aucune question,2,28.5,consultation
+83,aucune question,3,28.5,consultation
+84,aucune question,0,13.5,consultation
+84,aucune question,1,13.5,consultation
+84,aucune question,2,13.5,consultation
+84,aucune question,3,13.5,consultation
+85,aucune question,0,319.5,consultation
+85,aucune question,1,319.5,consultation
+85,aucune question,2,319.5,consultation
+85,aucune question,3,319.5,consultation
+86,aucune question,0,4.0,consultation
+86,aucune question,1,4.0,consultation
+86,aucune question,2,4.0,consultation
+86,aucune question,3,4.0,consultation
+87,aucune question,0,71.5,consultation
+87,aucune question,1,71.5,consultation
+87,aucune question,2,71.5,consultation
+87,aucune question,3,71.5,consultation
+88,aucune question,0,1.0,consultation
+88,aucune question,1,1.0,consultation
+88,aucune question,2,1.0,consultation
+88,aucune question,3,1.0,consultation
+89,aucune question,0,3.0,consultation
+89,aucune question,1,3.0,consultation
+89,aucune question,2,3.0,consultation
+89,aucune question,3,3.0,consultation
+90,aucune question,0,3.5,consultation
+90,aucune question,1,3.5,consultation
+90,aucune question,2,3.5,consultation
+90,aucune question,3,3.5,consultation
+91,aucune question,0,31.5,consultation
+91,aucune question,1,31.5,consultation
+91,aucune question,2,31.5,consultation
+91,aucune question,3,31.5,consultation
+92,aucune question,0,1.5,consultation
+92,aucune question,1,1.5,consultation
+92,aucune question,2,1.5,consultation
+92,aucune question,3,1.5,consultation
+93,aucune question,0,14.5,consultation
+93,aucune question,1,14.5,consultation
+93,aucune question,2,14.5,consultation
+93,aucune question,3,14.5,consultation
+94,aucune question,0,10.5,consultation
+94,aucune question,1,10.5,consultation
+94,aucune question,2,10.5,consultation
+94,aucune question,3,10.5,consultation
+95,aucune question,0,6.0,consultation
+95,aucune question,1,6.0,consultation
+95,aucune question,2,6.0,consultation
+95,aucune question,3,6.0,consultation
+96,aucune question,0,136.0,consultation
+96,aucune question,1,136.0,consultation
+96,aucune question,2,136.0,consultation
+96,aucune question,3,136.0,consultation
+97,aucune question,0,46.5,consultation
+97,aucune question,1,46.5,consultation
+97,aucune question,2,46.5,consultation
+97,aucune question,3,46.5,consultation
+98,aucune question,0,2.5,consultation
+98,aucune question,1,2.5,consultation
+98,aucune question,2,2.5,consultation
+98,aucune question,3,2.5,consultation
+99,aucune question,0,104.0,consultation
+99,aucune question,1,104.0,consultation
+99,aucune question,2,104.0,consultation
+99,aucune question,3,104.0,consultation
+100,aucune question,0,5.5,consultation
+100,aucune question,1,5.5,consultation
+100,aucune question,2,5.5,consultation
+100,aucune question,3,5.5,consultation
+101,aucune question,0,30.5,consultation
+101,aucune question,1,30.5,consultation
+101,aucune question,2,30.5,consultation
+101,aucune question,3,30.5,consultation
+102,aucune question,0,15.0,consultation
+102,aucune question,1,15.0,consultation
+102,aucune question,2,15.0,consultation
+102,aucune question,3,15.0,consultation
+103,aucune question,0,907.5,consultation
+103,aucune question,1,907.5,consultation
+103,aucune question,2,907.5,consultation
+103,aucune question,3,907.5,consultation
+104,aucune question,0,31.0,consultation
+104,aucune question,1,31.0,consultation
+104,aucune question,2,31.0,consultation
+104,aucune question,3,31.0,consultation
+105,aucune question,0,1.5,consultation
+105,aucune question,1,1.5,consultation
+105,aucune question,2,1.5,consultation
+105,aucune question,3,1.5,consultation
+106,aucune question,0,4.5,consultation
+106,aucune question,1,4.5,consultation
+106,aucune question,2,4.5,consultation
+106,aucune question,3,4.5,consultation
+107,aucune question,0,3.5,consultation
+107,aucune question,1,3.5,consultation
+107,aucune question,2,3.5,consultation
+107,aucune question,3,3.5,consultation
+108,aucune question,0,2.5,consultation
+108,aucune question,1,2.5,consultation
+108,aucune question,2,2.5,consultation
+108,aucune question,3,2.5,consultation
+109,aucune question,0,10.5,consultation
+109,aucune question,1,10.5,consultation
+109,aucune question,2,10.5,consultation
+109,aucune question,3,10.5,consultation
+110,aucune question,0,16.0,consultation
+110,aucune question,1,16.0,consultation
+110,aucune question,2,16.0,consultation
+110,aucune question,3,16.0,consultation
+111,aucune question,0,29.5,consultation
+111,aucune question,1,29.5,consultation
+111,aucune question,2,29.5,consultation
+111,aucune question,3,29.5,consultation
+112,aucune question,0,1.0,consultation
+112,aucune question,1,1.0,consultation
+112,aucune question,2,1.0,consultation
+112,aucune question,3,1.0,consultation
+113,aucune question,0,47.5,consultation
+113,aucune question,1,47.5,consultation
+113,aucune question,2,47.5,consultation
+113,aucune question,3,47.5,consultation
+114,aucune question,0,70.0,consultation
+114,aucune question,1,70.0,consultation
+114,aucune question,2,70.0,consultation
+114,aucune question,3,70.0,consultation
+115,aucune question,0,1.0,consultation
+115,aucune question,1,1.0,consultation
+115,aucune question,2,1.0,consultation
+115,aucune question,3,1.0,consultation
+116,aucune question,0,3.0,consultation
+116,aucune question,1,3.0,consultation
+116,aucune question,2,3.0,consultation
+116,aucune question,3,3.0,consultation
+117,aucune question,0,34.0,consultation
+117,aucune question,1,34.0,consultation
+117,aucune question,2,34.0,consultation
+117,aucune question,3,34.0,consultation
+118,aucune question,0,8.5,consultation
+118,aucune question,1,8.5,consultation
+118,aucune question,2,8.5,consultation
+118,aucune question,3,8.5,consultation
+119,aucune question,0,105.0,consultation
+119,aucune question,1,105.0,consultation
+119,aucune question,2,105.0,consultation
+119,aucune question,3,105.0,consultation
+120,aucune question,0,3.5,consultation
+120,aucune question,1,3.5,consultation
+120,aucune question,2,3.5,consultation
+120,aucune question,3,3.5,consultation
+121,aucune question,0,2.5,consultation
+121,aucune question,1,2.5,consultation
+121,aucune question,2,2.5,consultation
+121,aucune question,3,2.5,consultation
+122,aucune question,0,1.0,consultation
+122,aucune question,1,1.0,consultation
+122,aucune question,2,1.0,consultation
+122,aucune question,3,1.0,consultation
+123,aucune question,0,48.5,consultation
+123,aucune question,1,48.5,consultation
+123,aucune question,2,48.5,consultation
+123,aucune question,3,48.5,consultation
+124,aucune question,0,65.0,consultation
+124,aucune question,1,65.0,consultation
+124,aucune question,2,65.0,consultation
+124,aucune question,3,65.0,consultation
+125,aucune question,0,20.5,consultation
+125,aucune question,1,20.5,consultation
+125,aucune question,2,20.5,consultation
+125,aucune question,3,20.5,consultation
+126,aucune question,0,29.5,consultation
+126,aucune question,1,29.5,consultation
+126,aucune question,2,29.5,consultation
+126,aucune question,3,29.5,consultation
+127,aucune question,0,1.5,consultation
+127,aucune question,1,1.5,consultation
+127,aucune question,2,1.5,consultation
+127,aucune question,3,1.5,consultation
+128,aucune question,0,2.0,consultation
+128,aucune question,1,2.0,consultation
+128,aucune question,2,2.0,consultation
+128,aucune question,3,2.0,consultation
+129,aucune question,0,1.0,consultation
+129,aucune question,1,1.0,consultation
+129,aucune question,2,1.0,consultation
+129,aucune question,3,1.0,consultation
+130,aucune question,0,53.5,consultation
+130,aucune question,1,53.5,consultation
+130,aucune question,2,53.5,consultation
+130,aucune question,3,53.5,consultation
+131,aucune question,0,23.0,consultation
+131,aucune question,1,23.0,consultation
+131,aucune question,2,23.0,consultation
+131,aucune question,3,23.0,consultation
+132,aucune question,0,1.0,consultation
+132,aucune question,1,1.0,consultation
+132,aucune question,2,1.0,consultation
+132,aucune question,3,1.0,consultation
+133,aucune question,0,3.5,consultation
+133,aucune question,1,3.5,consultation
+133,aucune question,2,3.5,consultation
+133,aucune question,3,3.5,consultation
+134,aucune question,0,1.5,consultation
+134,aucune question,1,1.5,consultation
+134,aucune question,2,1.5,consultation
+134,aucune question,3,1.5,consultation
+135,aucune question,0,3.5,consultation
+135,aucune question,1,3.5,consultation
+135,aucune question,2,3.5,consultation
+135,aucune question,3,3.5,consultation
+136,aucune question,0,3.5,consultation
+136,aucune question,1,3.5,consultation
+136,aucune question,2,3.5,consultation
+136,aucune question,3,3.5,consultation
+137,aucune question,0,14.5,consultation
+137,aucune question,1,14.5,consultation
+137,aucune question,2,14.5,consultation
+137,aucune question,3,14.5,consultation
+138,aucune question,0,5.5,consultation
+138,aucune question,1,5.5,consultation
+138,aucune question,2,5.5,consultation
+138,aucune question,3,5.5,consultation
+139,aucune question,0,11.0,consultation
+139,aucune question,1,11.0,consultation
+139,aucune question,2,11.0,consultation
+139,aucune question,3,11.0,consultation
+140,aucune question,0,5.5,consultation
+140,aucune question,1,5.5,consultation
+140,aucune question,2,5.5,consultation
+140,aucune question,3,5.5,consultation
+141,aucune question,0,34.0,consultation
+141,aucune question,1,34.0,consultation
+141,aucune question,2,34.0,consultation
+141,aucune question,3,34.0,consultation
+142,aucune question,0,8.5,consultation
+142,aucune question,1,8.5,consultation
+142,aucune question,2,8.5,consultation
+142,aucune question,3,8.5,consultation
+143,aucune question,0,8.0,consultation
+143,aucune question,1,8.0,consultation
+143,aucune question,2,8.0,consultation
+143,aucune question,3,8.0,consultation
+144,aucune question,0,59.0,consultation
+144,aucune question,1,59.0,consultation
+144,aucune question,2,59.0,consultation
+144,aucune question,3,59.0,consultation
+145,aucune question,0,4.0,consultation
+145,aucune question,1,4.0,consultation
+145,aucune question,2,4.0,consultation
+145,aucune question,3,4.0,consultation
+146,aucune question,0,33.5,consultation
+146,aucune question,1,33.5,consultation
+146,aucune question,2,33.5,consultation
+146,aucune question,3,33.5,consultation
+147,aucune question,0,19.5,consultation
+147,aucune question,1,19.5,consultation
+147,aucune question,2,19.5,consultation
+147,aucune question,3,19.5,consultation
+148,aucune question,0,3.0,consultation
+148,aucune question,1,3.0,consultation
+148,aucune question,2,3.0,consultation
+148,aucune question,3,3.0,consultation
+149,aucune question,0,7.0,consultation
+149,aucune question,1,7.0,consultation
+149,aucune question,2,7.0,consultation
+149,aucune question,3,7.0,consultation
+150,aucune question,0,8.0,consultation
+150,aucune question,1,8.0,consultation
+150,aucune question,2,8.0,consultation
+150,aucune question,3,8.0,consultation
+151,aucune question,0,2.0,consultation
+151,aucune question,1,2.0,consultation
+151,aucune question,2,2.0,consultation
+151,aucune question,3,2.0,consultation
+152,aucune question,0,7.5,consultation
+152,aucune question,1,7.5,consultation
+152,aucune question,2,7.5,consultation
+152,aucune question,3,7.5,consultation
+153,aucune question,0,1.0,consultation
+153,aucune question,1,1.0,consultation
+153,aucune question,2,1.0,consultation
+153,aucune question,3,1.0,consultation
+154,aucune question,0,17.5,consultation
+154,aucune question,1,17.5,consultation
+154,aucune question,2,17.5,consultation
+154,aucune question,3,17.5,consultation
+155,aucune question,0,1.0,consultation
+155,aucune question,1,1.0,consultation
+155,aucune question,2,1.0,consultation
+155,aucune question,3,1.0,consultation
+156,aucune question,0,170.5,consultation
+156,aucune question,1,170.5,consultation
+156,aucune question,2,170.5,consultation
+156,aucune question,3,170.5,consultation
+157,aucune question,0,5.0,consultation
+157,aucune question,1,5.0,consultation
+157,aucune question,2,5.0,consultation
+157,aucune question,3,5.0,consultation
+158,aucune question,0,1.0,consultation
+158,aucune question,1,1.0,consultation
+158,aucune question,2,1.0,consultation
+158,aucune question,3,1.0,consultation
+159,aucune question,0,1.0,consultation
+159,aucune question,1,1.0,consultation
+159,aucune question,2,1.0,consultation
+159,aucune question,3,1.0,consultation
+160,aucune question,0,26.5,consultation
+160,aucune question,1,26.5,consultation
+160,aucune question,2,26.5,consultation
+160,aucune question,3,26.5,consultation
+161,aucune question,0,6.5,consultation
+161,aucune question,1,6.5,consultation
+161,aucune question,2,6.5,consultation
+161,aucune question,3,6.5,consultation
+162,aucune question,0,2.0,consultation
+162,aucune question,1,2.0,consultation
+162,aucune question,2,2.0,consultation
+162,aucune question,3,2.0,consultation
+163,aucune question,0,33.5,consultation
+163,aucune question,1,33.5,consultation
+163,aucune question,2,33.5,consultation
+163,aucune question,3,33.5,consultation
+164,aucune question,0,8.0,consultation
+164,aucune question,1,8.0,consultation
+164,aucune question,2,8.0,consultation
+164,aucune question,3,8.0,consultation
+165,aucune question,0,244.5,consultation
+165,aucune question,1,244.5,consultation
+165,aucune question,2,244.5,consultation
+165,aucune question,3,244.5,consultation
+166,aucune question,0,15.0,consultation
+166,aucune question,1,15.0,consultation
+166,aucune question,2,15.0,consultation
+166,aucune question,3,15.0,consultation
+167,aucune question,0,6.5,consultation
+167,aucune question,1,6.5,consultation
+167,aucune question,2,6.5,consultation
+167,aucune question,3,6.5,consultation
+168,aucune question,0,21.0,consultation
+168,aucune question,1,21.0,consultation
+168,aucune question,2,21.0,consultation
+168,aucune question,3,21.0,consultation
+169,aucune question,0,19.5,consultation
+169,aucune question,1,19.5,consultation
+169,aucune question,2,19.5,consultation
+169,aucune question,3,19.5,consultation
+170,aucune question,0,43.5,consultation
+170,aucune question,1,43.5,consultation
+170,aucune question,2,43.5,consultation
+170,aucune question,3,43.5,consultation
+171,aucune question,0,2.0,consultation
+171,aucune question,1,2.0,consultation
+171,aucune question,2,2.0,consultation
+171,aucune question,3,2.0,consultation
+172,aucune question,0,6.0,consultation
+172,aucune question,1,6.0,consultation
+172,aucune question,2,6.0,consultation
+172,aucune question,3,6.0,consultation
+173,aucune question,0,7.0,consultation
+173,aucune question,1,7.0,consultation
+173,aucune question,2,7.0,consultation
+173,aucune question,3,7.0,consultation
+174,aucune question,0,23.5,consultation
+174,aucune question,1,23.5,consultation
+174,aucune question,2,23.5,consultation
+174,aucune question,3,23.5,consultation
+175,aucune question,0,7.0,consultation
+175,aucune question,1,7.0,consultation
+175,aucune question,2,7.0,consultation
+175,aucune question,3,7.0,consultation
+176,aucune question,0,17.5,consultation
+176,aucune question,1,17.5,consultation
+176,aucune question,2,17.5,consultation
+176,aucune question,3,17.5,consultation
+177,aucune question,0,49.5,consultation
+177,aucune question,1,49.5,consultation
+177,aucune question,2,49.5,consultation
+177,aucune question,3,49.5,consultation
+178,aucune question,0,20.5,consultation
+178,aucune question,1,20.5,consultation
+178,aucune question,2,20.5,consultation
+178,aucune question,3,20.5,consultation
+179,aucune question,0,35.0,consultation
+179,aucune question,1,35.0,consultation
+179,aucune question,2,35.0,consultation
+179,aucune question,3,35.0,consultation
+180,aucune question,0,1.5,consultation
+180,aucune question,1,1.5,consultation
+180,aucune question,2,1.5,consultation
+180,aucune question,3,1.5,consultation
+181,aucune question,0,14.5,consultation
+181,aucune question,1,14.5,consultation
+181,aucune question,2,14.5,consultation
+181,aucune question,3,14.5,consultation
+182,aucune question,0,10.5,consultation
+182,aucune question,1,10.5,consultation
+182,aucune question,2,10.5,consultation
+182,aucune question,3,10.5,consultation
+183,aucune question,0,8.0,consultation
+183,aucune question,1,8.0,consultation
+183,aucune question,2,8.0,consultation
+183,aucune question,3,8.0,consultation
+184,aucune question,0,44.0,consultation
+184,aucune question,1,44.0,consultation
+184,aucune question,2,44.0,consultation
+184,aucune question,3,44.0,consultation
+185,aucune question,0,110.0,consultation
+185,aucune question,1,110.0,consultation
+185,aucune question,2,110.0,consultation
+185,aucune question,3,110.0,consultation
+186,aucune question,0,2.5,consultation
+186,aucune question,1,2.5,consultation
+186,aucune question,2,2.5,consultation
+186,aucune question,3,2.5,consultation
+187,aucune question,0,4.5,consultation
+187,aucune question,1,4.5,consultation
+187,aucune question,2,4.5,consultation
+187,aucune question,3,4.5,consultation
+188,aucune question,0,78.0,consultation
+188,aucune question,1,78.0,consultation
+188,aucune question,2,78.0,consultation
+188,aucune question,3,78.0,consultation
+189,aucune question,0,3.0,consultation
+189,aucune question,1,3.0,consultation
+189,aucune question,2,3.0,consultation
+189,aucune question,3,3.0,consultation
+190,aucune question,0,134.5,consultation
+190,aucune question,1,134.5,consultation
+190,aucune question,2,134.5,consultation
+190,aucune question,3,134.5,consultation
+191,aucune question,0,1.0,consultation
+191,aucune question,1,1.0,consultation
+191,aucune question,2,1.0,consultation
+191,aucune question,3,1.0,consultation
+192,aucune question,0,2.5,consultation
+192,aucune question,1,2.5,consultation
+192,aucune question,2,2.5,consultation
+192,aucune question,3,2.5,consultation
+193,aucune question,0,1.5,consultation
+193,aucune question,1,1.5,consultation
+193,aucune question,2,1.5,consultation
+193,aucune question,3,1.5,consultation
+194,aucune question,0,24.5,consultation
+194,aucune question,1,24.5,consultation
+194,aucune question,2,24.5,consultation
+194,aucune question,3,24.5,consultation
+195,aucune question,0,2.5,consultation
+195,aucune question,1,2.5,consultation
+195,aucune question,2,2.5,consultation
+195,aucune question,3,2.5,consultation
+196,aucune question,0,2.0,consultation
+196,aucune question,1,2.0,consultation
+196,aucune question,2,2.0,consultation
+196,aucune question,3,2.0,consultation
+197,aucune question,0,6.5,consultation
+197,aucune question,1,6.5,consultation
+197,aucune question,2,6.5,consultation
+197,aucune question,3,6.5,consultation
+198,aucune question,0,110.0,consultation
+198,aucune question,1,110.0,consultation
+198,aucune question,2,110.0,consultation
+198,aucune question,3,110.0,consultation
+199,aucune question,0,1.0,consultation
+199,aucune question,1,1.0,consultation
+199,aucune question,2,1.0,consultation
+199,aucune question,3,1.0,consultation
+0,question au hasard,0,4.5,consultation
+0,question au hasard,1,4.5,consultation
+0,question au hasard,2,4.0,consultation
+0,question au hasard,3,4.0,consultation
+1,question au hasard,0,15.0,consultation
+1,question au hasard,1,14.5,consultation
+1,question au hasard,2,13.5,consultation
+1,question au hasard,3,12.5,consultation
+2,question au hasard,0,477.5,consultation
+2,question au hasard,1,473.0,consultation
+2,question au hasard,2,469.5,consultation
+2,question au hasard,3,463.5,consultation
+3,question au hasard,0,20.5,consultation
+3,question au hasard,1,20.0,consultation
+3,question au hasard,2,30.5,consultation
+3,question au hasard,3,29.5,consultation
+4,question au hasard,0,5.5,consultation
+4,question au hasard,1,5.5,consultation
+4,question au hasard,2,5.5,consultation
+4,question au hasard,3,5.0,consultation
+5,question au hasard,0,2.5,consultation
+5,question au hasard,1,2.5,consultation
+5,question au hasard,2,2.5,consultation
+5,question au hasard,3,2.0,consultation
+6,question au hasard,0,26.0,consultation
+6,question au hasard,1,22.0,consultation
+6,question au hasard,2,21.0,consultation
+6,question au hasard,3,20.5,consultation
+7,question au hasard,0,2.5,consultation
+7,question au hasard,1,2.5,consultation
+7,question au hasard,2,2.5,consultation
+7,question au hasard,3,2.0,consultation
+8,question au hasard,0,185.0,consultation
+8,question au hasard,1,174.5,consultation
+8,question au hasard,2,337.0,consultation
+8,question au hasard,3,328.0,consultation
+9,question au hasard,0,33.0,consultation
+9,question au hasard,1,32.5,consultation
+9,question au hasard,2,32.0,consultation
+9,question au hasard,3,30.0,consultation
+10,question au hasard,0,18.0,consultation
+10,question au hasard,1,17.5,consultation
+10,question au hasard,2,17.0,consultation
+10,question au hasard,3,9.5,consultation
+11,question au hasard,0,27.5,consultation
+11,question au hasard,1,27.0,consultation
+11,question au hasard,2,26.0,consultation
+11,question au hasard,3,25.5,consultation
+12,question au hasard,0,1.5,consultation
+12,question au hasard,1,1.0,consultation
+12,question au hasard,2,1.0,consultation
+12,question au hasard,3,1.0,consultation
+13,question au hasard,0,1.5,consultation
+13,question au hasard,1,1.5,consultation
+13,question au hasard,2,1.5,consultation
+13,question au hasard,3,1.5,consultation
+14,question au hasard,0,22.5,consultation
+14,question au hasard,1,20.5,consultation
+14,question au hasard,2,20.0,consultation
+14,question au hasard,3,18.5,consultation
+15,question au hasard,0,2.0,consultation
+15,question au hasard,1,2.0,consultation
+15,question au hasard,2,2.0,consultation
+15,question au hasard,3,2.0,consultation
+16,question au hasard,0,11.0,consultation
+16,question au hasard,1,10.5,consultation
+16,question au hasard,2,9.0,consultation
+16,question au hasard,3,7.5,consultation
+17,question au hasard,0,18.0,consultation
+17,question au hasard,1,17.5,consultation
+17,question au hasard,2,16.0,consultation
+17,question au hasard,3,15.5,consultation
+18,question au hasard,0,28.5,consultation
+18,question au hasard,1,27.0,consultation
+18,question au hasard,2,19.0,consultation
+18,question au hasard,3,18.5,consultation
+19,question au hasard,0,35.0,consultation
+19,question au hasard,1,33.0,consultation
+19,question au hasard,2,32.5,consultation
+19,question au hasard,3,31.5,consultation
+20,question au hasard,0,3.0,consultation
+20,question au hasard,1,2.5,consultation
+20,question au hasard,2,2.5,consultation
+20,question au hasard,3,2.5,consultation
+21,question au hasard,0,5.0,consultation
+21,question au hasard,1,5.0,consultation
+21,question au hasard,2,4.5,consultation
+21,question au hasard,3,3.0,consultation
+22,question au hasard,0,129.5,consultation
+22,question au hasard,1,36.0,consultation
+22,question au hasard,2,33.5,consultation
+22,question au hasard,3,23.5,consultation
+23,question au hasard,0,628.0,consultation
+23,question au hasard,1,562.0,consultation
+23,question au hasard,2,541.5,consultation
+23,question au hasard,3,532.5,consultation
+24,question au hasard,0,140.5,consultation
+24,question au hasard,1,137.5,consultation
+24,question au hasard,2,137.0,consultation
+24,question au hasard,3,116.5,consultation
+25,question au hasard,0,3.0,consultation
+25,question au hasard,1,3.0,consultation
+25,question au hasard,2,3.0,consultation
+25,question au hasard,3,3.0,consultation
+26,question au hasard,0,1.0,consultation
+26,question au hasard,1,1.0,consultation
+26,question au hasard,2,1.0,consultation
+26,question au hasard,3,1.0,consultation
+27,question au hasard,0,2.0,consultation
+27,question au hasard,1,2.0,consultation
+27,question au hasard,2,1.0,consultation
+27,question au hasard,3,1.0,consultation
+28,question au hasard,0,20.0,consultation
+28,question au hasard,1,11.5,consultation
+28,question au hasard,2,9.5,consultation
+28,question au hasard,3,9.0,consultation
+29,question au hasard,0,4.0,consultation
+29,question au hasard,1,4.0,consultation
+29,question au hasard,2,4.0,consultation
+29,question au hasard,3,4.0,consultation
+30,question au hasard,0,24.0,consultation
+30,question au hasard,1,23.5,consultation
+30,question au hasard,2,11.0,consultation
+30,question au hasard,3,10.5,consultation
+31,question au hasard,0,117.0,consultation
+31,question au hasard,1,274.5,consultation
+31,question au hasard,2,270.5,consultation
+31,question au hasard,3,268.5,consultation
+32,question au hasard,0,1.5,consultation
+32,question au hasard,1,1.5,consultation
+32,question au hasard,2,1.5,consultation
+32,question au hasard,3,1.5,consultation
+33,question au hasard,0,2.0,consultation
+33,question au hasard,1,2.0,consultation
+33,question au hasard,2,2.0,consultation
+33,question au hasard,3,2.0,consultation
+34,question au hasard,0,12.5,consultation
+34,question au hasard,1,12.0,consultation
+34,question au hasard,2,11.5,consultation
+34,question au hasard,3,11.0,consultation
+35,question au hasard,0,53.5,consultation
+35,question au hasard,1,51.0,consultation
+35,question au hasard,2,49.5,consultation
+35,question au hasard,3,43.5,consultation
+36,question au hasard,0,79.0,consultation
+36,question au hasard,1,77.0,consultation
+36,question au hasard,2,76.5,consultation
+36,question au hasard,3,75.0,consultation
+37,question au hasard,0,20.0,consultation
+37,question au hasard,1,18.0,consultation
+37,question au hasard,2,14.5,consultation
+37,question au hasard,3,13.0,consultation
+38,question au hasard,0,7.5,consultation
+38,question au hasard,1,7.0,consultation
+38,question au hasard,2,5.0,consultation
+38,question au hasard,3,4.5,consultation
+39,question au hasard,0,3.5,consultation
+39,question au hasard,1,3.5,consultation
+39,question au hasard,2,3.5,consultation
+39,question au hasard,3,3.5,consultation
+40,question au hasard,0,5.0,consultation
+40,question au hasard,1,4.0,consultation
+40,question au hasard,2,4.0,consultation
+40,question au hasard,3,3.0,consultation
+41,question au hasard,0,91.5,consultation
+41,question au hasard,1,78.5,consultation
+41,question au hasard,2,71.0,consultation
+41,question au hasard,3,68.5,consultation
+42,question au hasard,0,10.5,consultation
+42,question au hasard,1,8.5,consultation
+42,question au hasard,2,8.0,consultation
+42,question au hasard,3,7.5,consultation
+43,question au hasard,0,14.5,consultation
+43,question au hasard,1,12.5,consultation
+43,question au hasard,2,11.5,consultation
+43,question au hasard,3,11.0,consultation
+44,question au hasard,0,2.0,consultation
+44,question au hasard,1,2.0,consultation
+44,question au hasard,2,2.0,consultation
+44,question au hasard,3,2.0,consultation
+45,question au hasard,0,2.0,consultation
+45,question au hasard,1,1.5,consultation
+45,question au hasard,2,1.0,consultation
+45,question au hasard,3,1.0,consultation
+46,question au hasard,0,23.0,consultation
+46,question au hasard,1,21.0,consultation
+46,question au hasard,2,19.5,consultation
+46,question au hasard,3,14.0,consultation
+47,question au hasard,0,44.5,consultation
+47,question au hasard,1,42.5,consultation
+47,question au hasard,2,41.5,consultation
+47,question au hasard,3,41.0,consultation
+48,question au hasard,0,66.0,consultation
+48,question au hasard,1,51.5,consultation
+48,question au hasard,2,47.5,consultation
+48,question au hasard,3,47.0,consultation
+49,question au hasard,0,2.0,consultation
+49,question au hasard,1,2.0,consultation
+49,question au hasard,2,2.0,consultation
+49,question au hasard,3,2.0,consultation
+50,question au hasard,0,6.5,consultation
+50,question au hasard,1,6.5,consultation
+50,question au hasard,2,6.0,consultation
+50,question au hasard,3,5.5,consultation
+51,question au hasard,0,5.5,consultation
+51,question au hasard,1,5.0,consultation
+51,question au hasard,2,4.5,consultation
+51,question au hasard,3,4.5,consultation
+52,question au hasard,0,3.0,consultation
+52,question au hasard,1,3.0,consultation
+52,question au hasard,2,3.0,consultation
+52,question au hasard,3,3.0,consultation
+53,question au hasard,0,613.0,consultation
+53,question au hasard,1,606.5,consultation
+53,question au hasard,2,598.5,consultation
+53,question au hasard,3,573.5,consultation
+54,question au hasard,0,23.5,consultation
+54,question au hasard,1,23.0,consultation
+54,question au hasard,2,22.5,consultation
+54,question au hasard,3,1.5,consultation
+55,question au hasard,0,5.5,consultation
+55,question au hasard,1,5.5,consultation
+55,question au hasard,2,5.0,consultation
+55,question au hasard,3,5.0,consultation
+56,question au hasard,0,2.5,consultation
+56,question au hasard,1,2.0,consultation
+56,question au hasard,2,2.0,consultation
+56,question au hasard,3,4.0,consultation
+57,question au hasard,0,9.0,consultation
+57,question au hasard,1,8.5,consultation
+57,question au hasard,2,8.0,consultation
+57,question au hasard,3,7.5,consultation
+58,question au hasard,0,3.5,consultation
+58,question au hasard,1,3.5,consultation
+58,question au hasard,2,3.5,consultation
+58,question au hasard,3,3.5,consultation
+59,question au hasard,0,49.5,consultation
+59,question au hasard,1,48.0,consultation
+59,question au hasard,2,42.0,consultation
+59,question au hasard,3,39.0,consultation
+60,question au hasard,0,2.0,consultation
+60,question au hasard,1,2.0,consultation
+60,question au hasard,2,2.0,consultation
+60,question au hasard,3,1.5,consultation
+61,question au hasard,0,11.5,consultation
+61,question au hasard,1,4.5,consultation
+61,question au hasard,2,4.5,consultation
+61,question au hasard,3,3.5,consultation
+62,question au hasard,0,4.5,consultation
+62,question au hasard,1,4.5,consultation
+62,question au hasard,2,4.5,consultation
+62,question au hasard,3,4.5,consultation
+63,question au hasard,0,27.0,consultation
+63,question au hasard,1,22.0,consultation
+63,question au hasard,2,21.5,consultation
+63,question au hasard,3,56.0,consultation
+64,question au hasard,0,14.5,consultation
+64,question au hasard,1,14.0,consultation
+64,question au hasard,2,12.5,consultation
+64,question au hasard,3,12.0,consultation
+65,question au hasard,0,1.0,consultation
+65,question au hasard,1,1.0,consultation
+65,question au hasard,2,1.0,consultation
+65,question au hasard,3,1.0,consultation
+66,question au hasard,0,1.0,consultation
+66,question au hasard,1,1.0,consultation
+66,question au hasard,2,1.0,consultation
+66,question au hasard,3,1.0,consultation
+67,question au hasard,0,73.5,consultation
+67,question au hasard,1,65.5,consultation
+67,question au hasard,2,61.5,consultation
+67,question au hasard,3,60.0,consultation
+68,question au hasard,0,4.5,consultation
+68,question au hasard,1,4.0,consultation
+68,question au hasard,2,4.0,consultation
+68,question au hasard,3,4.0,consultation
+69,question au hasard,0,2.5,consultation
+69,question au hasard,1,2.5,consultation
+69,question au hasard,2,2.0,consultation
+69,question au hasard,3,2.0,consultation
+70,question au hasard,0,1.0,consultation
+70,question au hasard,1,1.0,consultation
+70,question au hasard,2,1.0,consultation
+70,question au hasard,3,1.0,consultation
+71,question au hasard,0,6.5,consultation
+71,question au hasard,1,6.5,consultation
+71,question au hasard,2,6.0,consultation
+71,question au hasard,3,6.0,consultation
+72,question au hasard,0,5.5,consultation
+72,question au hasard,1,5.0,consultation
+72,question au hasard,2,5.0,consultation
+72,question au hasard,3,10.0,consultation
+73,question au hasard,0,1.0,consultation
+73,question au hasard,1,1.0,consultation
+73,question au hasard,2,1.0,consultation
+73,question au hasard,3,1.0,consultation
+74,question au hasard,0,2.0,consultation
+74,question au hasard,1,2.0,consultation
+74,question au hasard,2,2.0,consultation
+74,question au hasard,3,2.0,consultation
+75,question au hasard,0,6.0,consultation
+75,question au hasard,1,1.0,consultation
+75,question au hasard,2,1.0,consultation
+75,question au hasard,3,1.0,consultation
+76,question au hasard,0,4.5,consultation
+76,question au hasard,1,4.0,consultation
+76,question au hasard,2,3.5,consultation
+76,question au hasard,3,3.0,consultation
+77,question au hasard,0,218.5,consultation
+77,question au hasard,1,216.5,consultation
+77,question au hasard,2,208.5,consultation
+77,question au hasard,3,167.5,consultation
+78,question au hasard,0,1.0,consultation
+78,question au hasard,1,1.0,consultation
+78,question au hasard,2,1.0,consultation
+78,question au hasard,3,1.0,consultation
+79,question au hasard,0,55.0,consultation
+79,question au hasard,1,52.5,consultation
+79,question au hasard,2,14.5,consultation
+79,question au hasard,3,13.0,consultation
+80,question au hasard,0,97.5,consultation
+80,question au hasard,1,93.5,consultation
+80,question au hasard,2,93.0,consultation
+80,question au hasard,3,90.5,consultation
+81,question au hasard,0,41.0,consultation
+81,question au hasard,1,40.5,consultation
+81,question au hasard,2,39.5,consultation
+81,question au hasard,3,27.5,consultation
+82,question au hasard,0,10.0,consultation
+82,question au hasard,1,9.5,consultation
+82,question au hasard,2,9.0,consultation
+82,question au hasard,3,8.5,consultation
+83,question au hasard,0,28.5,consultation
+83,question au hasard,1,28.0,consultation
+83,question au hasard,2,25.0,consultation
+83,question au hasard,3,14.5,consultation
+84,question au hasard,0,13.5,consultation
+84,question au hasard,1,13.0,consultation
+84,question au hasard,2,12.5,consultation
+84,question au hasard,3,12.0,consultation
+85,question au hasard,0,319.5,consultation
+85,question au hasard,1,88.0,consultation
+85,question au hasard,2,82.5,consultation
+85,question au hasard,3,75.5,consultation
+86,question au hasard,0,4.0,consultation
+86,question au hasard,1,6.5,consultation
+86,question au hasard,2,5.5,consultation
+86,question au hasard,3,5.5,consultation
+87,question au hasard,0,71.5,consultation
+87,question au hasard,1,68.5,consultation
+87,question au hasard,2,66.5,consultation
+87,question au hasard,3,64.0,consultation
+88,question au hasard,0,1.0,consultation
+88,question au hasard,1,1.0,consultation
+88,question au hasard,2,1.0,consultation
+88,question au hasard,3,1.0,consultation
+89,question au hasard,0,3.0,consultation
+89,question au hasard,1,3.0,consultation
+89,question au hasard,2,2.5,consultation
+89,question au hasard,3,2.5,consultation
+90,question au hasard,0,3.5,consultation
+90,question au hasard,1,3.0,consultation
+90,question au hasard,2,3.0,consultation
+90,question au hasard,3,3.0,consultation
+91,question au hasard,0,31.5,consultation
+91,question au hasard,1,26.5,consultation
+91,question au hasard,2,26.0,consultation
+91,question au hasard,3,24.0,consultation
+92,question au hasard,0,1.5,consultation
+92,question au hasard,1,1.5,consultation
+92,question au hasard,2,1.5,consultation
+92,question au hasard,3,1.5,consultation
+93,question au hasard,0,14.5,consultation
+93,question au hasard,1,13.5,consultation
+93,question au hasard,2,11.5,consultation
+93,question au hasard,3,11.0,consultation
+94,question au hasard,0,10.5,consultation
+94,question au hasard,1,6.5,consultation
+94,question au hasard,2,6.0,consultation
+94,question au hasard,3,5.5,consultation
+95,question au hasard,0,6.0,consultation
+95,question au hasard,1,5.5,consultation
+95,question au hasard,2,5.5,consultation
+95,question au hasard,3,9.5,consultation
+96,question au hasard,0,136.0,consultation
+96,question au hasard,1,877.0,consultation
+96,question au hasard,2,409.0,consultation
+96,question au hasard,3,357.5,consultation
+97,question au hasard,0,46.5,consultation
+97,question au hasard,1,45.5,consultation
+97,question au hasard,2,43.0,consultation
+97,question au hasard,3,42.5,consultation
+98,question au hasard,0,2.5,consultation
+98,question au hasard,1,2.5,consultation
+98,question au hasard,2,2.0,consultation
+98,question au hasard,3,2.0,consultation
+99,question au hasard,0,104.0,consultation
+99,question au hasard,1,100.5,consultation
+99,question au hasard,2,64.5,consultation
+99,question au hasard,3,63.5,consultation
+100,question au hasard,0,5.5,consultation
+100,question au hasard,1,5.0,consultation
+100,question au hasard,2,4.0,consultation
+100,question au hasard,3,3.5,consultation
+101,question au hasard,0,30.5,consultation
+101,question au hasard,1,29.5,consultation
+101,question au hasard,2,29.0,consultation
+101,question au hasard,3,18.5,consultation
+102,question au hasard,0,15.0,consultation
+102,question au hasard,1,12.0,consultation
+102,question au hasard,2,10.5,consultation
+102,question au hasard,3,2.0,consultation
+103,question au hasard,0,907.5,consultation
+103,question au hasard,1,904.5,consultation
+103,question au hasard,2,712.0,consultation
+103,question au hasard,3,705.0,consultation
+104,question au hasard,0,31.0,consultation
+104,question au hasard,1,30.5,consultation
+104,question au hasard,2,26.0,consultation
+104,question au hasard,3,25.5,consultation
+105,question au hasard,0,1.5,consultation
+105,question au hasard,1,1.5,consultation
+105,question au hasard,2,1.0,consultation
+105,question au hasard,3,1.0,consultation
+106,question au hasard,0,4.5,consultation
+106,question au hasard,1,4.5,consultation
+106,question au hasard,2,4.5,consultation
+106,question au hasard,3,4.5,consultation
+107,question au hasard,0,3.5,consultation
+107,question au hasard,1,3.5,consultation
+107,question au hasard,2,3.5,consultation
+107,question au hasard,3,3.5,consultation
+108,question au hasard,0,2.5,consultation
+108,question au hasard,1,2.5,consultation
+108,question au hasard,2,2.5,consultation
+108,question au hasard,3,2.5,consultation
+109,question au hasard,0,10.5,consultation
+109,question au hasard,1,9.5,consultation
+109,question au hasard,2,8.0,consultation
+109,question au hasard,3,8.0,consultation
+110,question au hasard,0,16.0,consultation
+110,question au hasard,1,15.5,consultation
+110,question au hasard,2,14.5,consultation
+110,question au hasard,3,12.0,consultation
+111,question au hasard,0,29.5,consultation
+111,question au hasard,1,19.5,consultation
+111,question au hasard,2,18.0,consultation
+111,question au hasard,3,17.5,consultation
+112,question au hasard,0,1.0,consultation
+112,question au hasard,1,1.0,consultation
+112,question au hasard,2,1.0,consultation
+112,question au hasard,3,1.0,consultation
+113,question au hasard,0,47.5,consultation
+113,question au hasard,1,43.5,consultation
+113,question au hasard,2,41.5,consultation
+113,question au hasard,3,39.0,consultation
+114,question au hasard,0,70.0,consultation
+114,question au hasard,1,69.5,consultation
+114,question au hasard,2,63.5,consultation
+114,question au hasard,3,61.5,consultation
+115,question au hasard,0,1.0,consultation
+115,question au hasard,1,1.0,consultation
+115,question au hasard,2,1.0,consultation
+115,question au hasard,3,1.0,consultation
+116,question au hasard,0,3.0,consultation
+116,question au hasard,1,2.0,consultation
+116,question au hasard,2,2.0,consultation
+116,question au hasard,3,2.0,consultation
+117,question au hasard,0,34.0,consultation
+117,question au hasard,1,28.0,consultation
+117,question au hasard,2,7.0,consultation
+117,question au hasard,3,6.5,consultation
+118,question au hasard,0,8.5,consultation
+118,question au hasard,1,8.0,consultation
+118,question au hasard,2,7.5,consultation
+118,question au hasard,3,7.5,consultation
+119,question au hasard,0,105.0,consultation
+119,question au hasard,1,104.5,consultation
+119,question au hasard,2,104.0,consultation
+119,question au hasard,3,102.5,consultation
+120,question au hasard,0,3.5,consultation
+120,question au hasard,1,3.5,consultation
+120,question au hasard,2,3.5,consultation
+120,question au hasard,3,3.5,consultation
+121,question au hasard,0,2.5,consultation
+121,question au hasard,1,2.5,consultation
+121,question au hasard,2,2.0,consultation
+121,question au hasard,3,2.0,consultation
+122,question au hasard,0,1.0,consultation
+122,question au hasard,1,1.0,consultation
+122,question au hasard,2,1.0,consultation
+122,question au hasard,3,1.0,consultation
+123,question au hasard,0,48.5,consultation
+123,question au hasard,1,47.5,consultation
+123,question au hasard,2,47.0,consultation
+123,question au hasard,3,38.5,consultation
+124,question au hasard,0,65.0,consultation
+124,question au hasard,1,63.5,consultation
+124,question au hasard,2,2.0,consultation
+124,question au hasard,3,2.0,consultation
+125,question au hasard,0,20.5,consultation
+125,question au hasard,1,20.0,consultation
+125,question au hasard,2,18.0,consultation
+125,question au hasard,3,17.5,consultation
+126,question au hasard,0,29.5,consultation
+126,question au hasard,1,28.5,consultation
+126,question au hasard,2,26.0,consultation
+126,question au hasard,3,25.0,consultation
+127,question au hasard,0,1.5,consultation
+127,question au hasard,1,1.0,consultation
+127,question au hasard,2,1.0,consultation
+127,question au hasard,3,1.0,consultation
+128,question au hasard,0,2.0,consultation
+128,question au hasard,1,2.0,consultation
+128,question au hasard,2,2.0,consultation
+128,question au hasard,3,2.0,consultation
+129,question au hasard,0,1.0,consultation
+129,question au hasard,1,1.0,consultation
+129,question au hasard,2,1.0,consultation
+129,question au hasard,3,1.0,consultation
+130,question au hasard,0,53.5,consultation
+130,question au hasard,1,52.5,consultation
+130,question au hasard,2,46.0,consultation
+130,question au hasard,3,37.5,consultation
+131,question au hasard,0,23.0,consultation
+131,question au hasard,1,22.5,consultation
+131,question au hasard,2,20.5,consultation
+131,question au hasard,3,16.5,consultation
+132,question au hasard,0,1.0,consultation
+132,question au hasard,1,1.0,consultation
+132,question au hasard,2,1.0,consultation
+132,question au hasard,3,1.0,consultation
+133,question au hasard,0,3.5,consultation
+133,question au hasard,1,3.5,consultation
+133,question au hasard,2,3.5,consultation
+133,question au hasard,3,3.5,consultation
+134,question au hasard,0,1.5,consultation
+134,question au hasard,1,1.5,consultation
+134,question au hasard,2,1.5,consultation
+134,question au hasard,3,1.5,consultation
+135,question au hasard,0,3.5,consultation
+135,question au hasard,1,2.5,consultation
+135,question au hasard,2,2.5,consultation
+135,question au hasard,3,2.5,consultation
+136,question au hasard,0,3.5,consultation
+136,question au hasard,1,3.0,consultation
+136,question au hasard,2,3.0,consultation
+136,question au hasard,3,3.0,consultation
+137,question au hasard,0,14.5,consultation
+137,question au hasard,1,13.5,consultation
+137,question au hasard,2,12.5,consultation
+137,question au hasard,3,12.0,consultation
+138,question au hasard,0,5.5,consultation
+138,question au hasard,1,5.0,consultation
+138,question au hasard,2,4.0,consultation
+138,question au hasard,3,1.0,consultation
+139,question au hasard,0,11.0,consultation
+139,question au hasard,1,9.5,consultation
+139,question au hasard,2,189.0,consultation
+139,question au hasard,3,183.0,consultation
+140,question au hasard,0,5.5,consultation
+140,question au hasard,1,4.5,consultation
+140,question au hasard,2,4.0,consultation
+140,question au hasard,3,4.0,consultation
+141,question au hasard,0,34.0,consultation
+141,question au hasard,1,274.0,consultation
+141,question au hasard,2,54.0,consultation
+141,question au hasard,3,54.0,consultation
+142,question au hasard,0,8.5,consultation
+142,question au hasard,1,8.0,consultation
+142,question au hasard,2,4.0,consultation
+142,question au hasard,3,4.0,consultation
+143,question au hasard,0,8.0,consultation
+143,question au hasard,1,4.5,consultation
+143,question au hasard,2,4.0,consultation
+143,question au hasard,3,3.5,consultation
+144,question au hasard,0,59.0,consultation
+144,question au hasard,1,52.5,consultation
+144,question au hasard,2,51.5,consultation
+144,question au hasard,3,44.5,consultation
+145,question au hasard,0,4.0,consultation
+145,question au hasard,1,2.5,consultation
+145,question au hasard,2,1.5,consultation
+145,question au hasard,3,1.5,consultation
+146,question au hasard,0,33.5,consultation
+146,question au hasard,1,32.5,consultation
+146,question au hasard,2,29.0,consultation
+146,question au hasard,3,3.5,consultation
+147,question au hasard,0,19.5,consultation
+147,question au hasard,1,18.0,consultation
+147,question au hasard,2,17.0,consultation
+147,question au hasard,3,13.5,consultation
+148,question au hasard,0,3.0,consultation
+148,question au hasard,1,3.0,consultation
+148,question au hasard,2,1.5,consultation
+148,question au hasard,3,1.5,consultation
+149,question au hasard,0,7.0,consultation
+149,question au hasard,1,4.5,consultation
+149,question au hasard,2,4.5,consultation
+149,question au hasard,3,6.5,consultation
+150,question au hasard,0,8.0,consultation
+150,question au hasard,1,7.5,consultation
+150,question au hasard,2,7.0,consultation
+150,question au hasard,3,6.0,consultation
+151,question au hasard,0,2.0,consultation
+151,question au hasard,1,2.0,consultation
+151,question au hasard,2,2.0,consultation
+151,question au hasard,3,2.0,consultation
+152,question au hasard,0,7.5,consultation
+152,question au hasard,1,7.0,consultation
+152,question au hasard,2,6.5,consultation
+152,question au hasard,3,6.0,consultation
+153,question au hasard,0,1.0,consultation
+153,question au hasard,1,1.0,consultation
+153,question au hasard,2,1.0,consultation
+153,question au hasard,3,1.0,consultation
+154,question au hasard,0,17.5,consultation
+154,question au hasard,1,15.0,consultation
+154,question au hasard,2,10.0,consultation
+154,question au hasard,3,9.5,consultation
+155,question au hasard,0,1.0,consultation
+155,question au hasard,1,1.0,consultation
+155,question au hasard,2,1.0,consultation
+155,question au hasard,3,1.0,consultation
+156,question au hasard,0,170.5,consultation
+156,question au hasard,1,165.5,consultation
+156,question au hasard,2,162.0,consultation
+156,question au hasard,3,157.5,consultation
+157,question au hasard,0,5.0,consultation
+157,question au hasard,1,18.0,consultation
+157,question au hasard,2,17.0,consultation
+157,question au hasard,3,30.0,consultation
+158,question au hasard,0,1.0,consultation
+158,question au hasard,1,1.0,consultation
+158,question au hasard,2,1.0,consultation
+158,question au hasard,3,1.0,consultation
+159,question au hasard,0,1.0,consultation
+159,question au hasard,1,1.0,consultation
+159,question au hasard,2,1.0,consultation
+159,question au hasard,3,1.0,consultation
+160,question au hasard,0,26.5,consultation
+160,question au hasard,1,119.0,consultation
+160,question au hasard,2,98.0,consultation
+160,question au hasard,3,97.0,consultation
+161,question au hasard,0,6.5,consultation
+161,question au hasard,1,6.0,consultation
+161,question au hasard,2,5.5,consultation
+161,question au hasard,3,5.5,consultation
+162,question au hasard,0,2.0,consultation
+162,question au hasard,1,1.5,consultation
+162,question au hasard,2,1.5,consultation
+162,question au hasard,3,1.5,consultation
+163,question au hasard,0,33.5,consultation
+163,question au hasard,1,64.0,consultation
+163,question au hasard,2,43.0,consultation
+163,question au hasard,3,40.0,consultation
+164,question au hasard,0,8.0,consultation
+164,question au hasard,1,7.5,consultation
+164,question au hasard,2,7.5,consultation
+164,question au hasard,3,7.5,consultation
+165,question au hasard,0,244.5,consultation
+165,question au hasard,1,241.0,consultation
+165,question au hasard,2,223.5,consultation
+165,question au hasard,3,212.5,consultation
+166,question au hasard,0,15.0,consultation
+166,question au hasard,1,13.5,consultation
+166,question au hasard,2,7.5,consultation
+166,question au hasard,3,4.5,consultation
+167,question au hasard,0,6.5,consultation
+167,question au hasard,1,6.0,consultation
+167,question au hasard,2,5.5,consultation
+167,question au hasard,3,5.0,consultation
+168,question au hasard,0,21.0,consultation
+168,question au hasard,1,19.0,consultation
+168,question au hasard,2,16.5,consultation
+168,question au hasard,3,34.0,consultation
+169,question au hasard,0,19.5,consultation
+169,question au hasard,1,18.5,consultation
+169,question au hasard,2,18.0,consultation
+169,question au hasard,3,17.5,consultation
+170,question au hasard,0,43.5,consultation
+170,question au hasard,1,34.0,consultation
+170,question au hasard,2,32.0,consultation
+170,question au hasard,3,30.5,consultation
+171,question au hasard,0,2.0,consultation
+171,question au hasard,1,2.0,consultation
+171,question au hasard,2,2.0,consultation
+171,question au hasard,3,2.0,consultation
+172,question au hasard,0,6.0,consultation
+172,question au hasard,1,6.0,consultation
+172,question au hasard,2,6.0,consultation
+172,question au hasard,3,5.5,consultation
+173,question au hasard,0,7.0,consultation
+173,question au hasard,1,6.5,consultation
+173,question au hasard,2,6.0,consultation
+173,question au hasard,3,5.5,consultation
+174,question au hasard,0,23.5,consultation
+174,question au hasard,1,22.5,consultation
+174,question au hasard,2,21.5,consultation
+174,question au hasard,3,19.0,consultation
+175,question au hasard,0,7.0,consultation
+175,question au hasard,1,6.5,consultation
+175,question au hasard,2,6.5,consultation
+175,question au hasard,3,4.0,consultation
+176,question au hasard,0,17.5,consultation
+176,question au hasard,1,15.5,consultation
+176,question au hasard,2,15.0,consultation
+176,question au hasard,3,14.5,consultation
+177,question au hasard,0,49.5,consultation
+177,question au hasard,1,49.0,consultation
+177,question au hasard,2,48.5,consultation
+177,question au hasard,3,48.0,consultation
+178,question au hasard,0,20.5,consultation
+178,question au hasard,1,20.0,consultation
+178,question au hasard,2,19.5,consultation
+178,question au hasard,3,18.5,consultation
+179,question au hasard,0,35.0,consultation
+179,question au hasard,1,34.5,consultation
+179,question au hasard,2,31.5,consultation
+179,question au hasard,3,30.0,consultation
+180,question au hasard,0,1.5,consultation
+180,question au hasard,1,1.5,consultation
+180,question au hasard,2,1.5,consultation
+180,question au hasard,3,1.5,consultation
+181,question au hasard,0,14.5,consultation
+181,question au hasard,1,13.5,consultation
+181,question au hasard,2,10.0,consultation
+181,question au hasard,3,9.5,consultation
+182,question au hasard,0,10.5,consultation
+182,question au hasard,1,10.0,consultation
+182,question au hasard,2,9.5,consultation
+182,question au hasard,3,9.0,consultation
+183,question au hasard,0,8.0,consultation
+183,question au hasard,1,7.5,consultation
+183,question au hasard,2,15.5,consultation
+183,question au hasard,3,15.5,consultation
+184,question au hasard,0,44.0,consultation
+184,question au hasard,1,41.5,consultation
+184,question au hasard,2,35.5,consultation
+184,question au hasard,3,35.0,consultation
+185,question au hasard,0,110.0,consultation
+185,question au hasard,1,999.0,consultation
+185,question au hasard,2,908.0,consultation
+185,question au hasard,3,796.0,consultation
+186,question au hasard,0,2.5,consultation
+186,question au hasard,1,2.5,consultation
+186,question au hasard,2,2.5,consultation
+186,question au hasard,3,2.0,consultation
+187,question au hasard,0,4.5,consultation
+187,question au hasard,1,4.5,consultation
+187,question au hasard,2,4.5,consultation
+187,question au hasard,3,4.5,consultation
+188,question au hasard,0,78.0,consultation
+188,question au hasard,1,70.5,consultation
+188,question au hasard,2,70.0,consultation
+188,question au hasard,3,68.0,consultation
+189,question au hasard,0,3.0,consultation
+189,question au hasard,1,3.0,consultation
+189,question au hasard,2,3.0,consultation
+189,question au hasard,3,3.0,consultation
+190,question au hasard,0,134.5,consultation
+190,question au hasard,1,338.0,consultation
+190,question au hasard,2,332.5,consultation
+190,question au hasard,3,328.0,consultation
+191,question au hasard,0,1.0,consultation
+191,question au hasard,1,1.0,consultation
+191,question au hasard,2,1.0,consultation
+191,question au hasard,3,1.0,consultation
+192,question au hasard,0,2.5,consultation
+192,question au hasard,1,2.5,consultation
+192,question au hasard,2,2.5,consultation
+192,question au hasard,3,2.5,consultation
+193,question au hasard,0,1.5,consultation
+193,question au hasard,1,1.5,consultation
+193,question au hasard,2,1.5,consultation
+193,question au hasard,3,1.5,consultation
+194,question au hasard,0,24.5,consultation
+194,question au hasard,1,24.0,consultation
+194,question au hasard,2,23.0,consultation
+194,question au hasard,3,17.0,consultation
+195,question au hasard,0,2.5,consultation
+195,question au hasard,1,9.0,consultation
+195,question au hasard,2,9.0,consultation
+195,question au hasard,3,33.0,consultation
+196,question au hasard,0,2.0,consultation
+196,question au hasard,1,2.0,consultation
+196,question au hasard,2,2.0,consultation
+196,question au hasard,3,2.0,consultation
+197,question au hasard,0,6.5,consultation
+197,question au hasard,1,6.0,consultation
+197,question au hasard,2,4.0,consultation
+197,question au hasard,3,2.5,consultation
+198,question au hasard,0,110.0,consultation
+198,question au hasard,1,109.0,consultation
+198,question au hasard,2,108.5,consultation
+198,question au hasard,3,104.0,consultation
+199,question au hasard,0,1.0,consultation
+199,question au hasard,1,1.0,consultation
+199,question au hasard,2,1.0,consultation
+199,question au hasard,3,1.0,consultation
+0,gain d'information max,0,4.5,consultation
+0,gain d'information max,1,2.5,consultation
+0,gain d'information max,2,2.5,consultation
+0,gain d'information max,3,501.0,consultation
+1,gain d'information max,0,15.0,consultation
+1,gain d'information max,1,7.0,consultation
+1,gain d'information max,2,3.5,consultation
+1,gain d'information max,3,2.5,consultation
+2,gain d'information max,0,477.5,consultation
+2,gain d'information max,1,234.5,consultation
+2,gain d'information max,2,940.5,consultation
+2,gain d'information max,3,91.5,consultation
+3,gain d'information max,0,20.5,consultation
+3,gain d'information max,1,9.0,consultation
+3,gain d'information max,2,5.0,consultation
+3,gain d'information max,3,2.5,consultation
+4,gain d'information max,0,5.5,consultation
+4,gain d'information max,1,127.0,consultation
+4,gain d'information max,2,78.0,consultation
+4,gain d'information max,3,12.0,consultation
+5,gain d'information max,0,2.5,consultation
+5,gain d'information max,1,1.5,consultation
+5,gain d'information max,2,2.0,consultation
+5,gain d'information max,3,2.0,consultation
+6,gain d'information max,0,26.0,consultation
+6,gain d'information max,1,7.0,consultation
+6,gain d'information max,2,5.0,consultation
+6,gain d'information max,3,3.0,consultation
+7,gain d'information max,0,2.5,consultation
+7,gain d'information max,1,1.0,consultation
+7,gain d'information max,2,1.0,consultation
+7,gain d'information max,3,1.0,consultation
+8,gain d'information max,0,185.0,consultation
+8,gain d'information max,1,167.0,consultation
+8,gain d'information max,2,115.0,consultation
+8,gain d'information max,3,63.5,consultation
+9,gain d'information max,0,33.0,consultation
+9,gain d'information max,1,25.5,consultation
+9,gain d'information max,2,74.0,consultation
+9,gain d'information max,3,37.5,consultation
+10,gain d'information max,0,18.0,consultation
+10,gain d'information max,1,10.5,consultation
+10,gain d'information max,2,6.0,consultation
+10,gain d'information max,3,4.5,consultation
+11,gain d'information max,0,27.5,consultation
+11,gain d'information max,1,14.0,consultation
+11,gain d'information max,2,4.5,consultation
+11,gain d'information max,3,2.5,consultation
+12,gain d'information max,0,1.5,consultation
+12,gain d'information max,1,1.0,consultation
+12,gain d'information max,2,1.0,consultation
+12,gain d'information max,3,1.0,consultation
+13,gain d'information max,0,1.5,consultation
+13,gain d'information max,1,1.0,consultation
+13,gain d'information max,2,1.0,consultation
+13,gain d'information max,3,1.0,consultation
+14,gain d'information max,0,22.5,consultation
+14,gain d'information max,1,17.0,consultation
+14,gain d'information max,2,12.5,consultation
+14,gain d'information max,3,7.5,consultation
+15,gain d'information max,0,2.0,consultation
+15,gain d'information max,1,1.0,consultation
+15,gain d'information max,2,1.0,consultation
+15,gain d'information max,3,1.0,consultation
+16,gain d'information max,0,11.0,consultation
+16,gain d'information max,1,7.0,consultation
+16,gain d'information max,2,3.5,consultation
+16,gain d'information max,3,2.5,consultation
+17,gain d'information max,0,18.0,consultation
+17,gain d'information max,1,11.5,consultation
+17,gain d'information max,2,8.5,consultation
+17,gain d'information max,3,4.5,consultation
+18,gain d'information max,0,28.5,consultation
+18,gain d'information max,1,20.5,consultation
+18,gain d'information max,2,15.0,consultation
+18,gain d'information max,3,5.0,consultation
+19,gain d'information max,0,35.0,consultation
+19,gain d'information max,1,27.0,consultation
+19,gain d'information max,2,509.5,consultation
+19,gain d'information max,3,208.5,consultation
+20,gain d'information max,0,3.0,consultation
+20,gain d'information max,1,2.0,consultation
+20,gain d'information max,2,1.0,consultation
+20,gain d'information max,3,1.0,consultation
+21,gain d'information max,0,5.0,consultation
+21,gain d'information max,1,3.5,consultation
+21,gain d'information max,2,3.0,consultation
+21,gain d'information max,3,2.0,consultation
+22,gain d'information max,0,129.5,consultation
+22,gain d'information max,1,72.5,consultation
+22,gain d'information max,2,41.5,consultation
+22,gain d'information max,3,3451.0,consultation
+23,gain d'information max,0,628.0,consultation
+23,gain d'information max,1,515.0,consultation
+23,gain d'information max,2,382.5,consultation
+23,gain d'information max,3,265.0,consultation
+24,gain d'information max,0,140.5,consultation
+24,gain d'information max,1,1038.0,consultation
+24,gain d'information max,2,259.0,consultation
+24,gain d'information max,3,122.5,consultation
+25,gain d'information max,0,3.0,consultation
+25,gain d'information max,1,1.5,consultation
+25,gain d'information max,2,1.0,consultation
+25,gain d'information max,3,1.0,consultation
+26,gain d'information max,0,1.0,consultation
+26,gain d'information max,1,1.0,consultation
+26,gain d'information max,2,1.0,consultation
+26,gain d'information max,3,1.0,consultation
+27,gain d'information max,0,2.0,consultation
+27,gain d'information max,1,1.0,consultation
+27,gain d'information max,2,1.0,consultation
+27,gain d'information max,3,1.0,consultation
+28,gain d'information max,0,20.0,consultation
+28,gain d'information max,1,8.0,consultation
+28,gain d'information max,2,5.5,consultation
+28,gain d'information max,3,3.0,consultation
+29,gain d'information max,0,4.0,consultation
+29,gain d'information max,1,2.5,consultation
+29,gain d'information max,2,1.5,consultation
+29,gain d'information max,3,1.0,consultation
+30,gain d'information max,0,24.0,consultation
+30,gain d'information max,1,13.5,consultation
+30,gain d'information max,2,9.5,consultation
+30,gain d'information max,3,5.0,consultation
+31,gain d'information max,0,117.0,consultation
+31,gain d'information max,1,97.5,consultation
+31,gain d'information max,2,81.0,consultation
+31,gain d'information max,3,23.5,consultation
+32,gain d'information max,0,1.5,consultation
+32,gain d'information max,1,1.0,consultation
+32,gain d'information max,2,194.0,consultation
+32,gain d'information max,3,1787.0,consultation
+33,gain d'information max,0,2.0,consultation
+33,gain d'information max,1,1.5,consultation
+33,gain d'information max,2,1.0,consultation
+33,gain d'information max,3,1.0,consultation
+34,gain d'information max,0,12.5,consultation
+34,gain d'information max,1,7.0,consultation
+34,gain d'information max,2,3.0,consultation
+34,gain d'information max,3,2.0,consultation
+35,gain d'information max,0,53.5,consultation
+35,gain d'information max,1,79.0,consultation
+35,gain d'information max,2,33.5,consultation
+35,gain d'information max,3,24.5,consultation
+36,gain d'information max,0,79.0,consultation
+36,gain d'information max,1,53.0,consultation
+36,gain d'information max,2,31.0,consultation
+36,gain d'information max,3,15.0,consultation
+37,gain d'information max,0,20.0,consultation
+37,gain d'information max,1,7.0,consultation
+37,gain d'information max,2,15.5,consultation
+37,gain d'information max,3,9.5,consultation
+38,gain d'information max,0,7.5,consultation
+38,gain d'information max,1,4.0,consultation
+38,gain d'information max,2,66.0,consultation
+38,gain d'information max,3,114.0,consultation
+39,gain d'information max,0,3.5,consultation
+39,gain d'information max,1,3.0,consultation
+39,gain d'information max,2,2.0,consultation
+39,gain d'information max,3,1.5,consultation
+40,gain d'information max,0,5.0,consultation
+40,gain d'information max,1,2.5,consultation
+40,gain d'information max,2,1.5,consultation
+40,gain d'information max,3,1.0,consultation
+41,gain d'information max,0,91.5,consultation
+41,gain d'information max,1,46.0,consultation
+41,gain d'information max,2,32.0,consultation
+41,gain d'information max,3,9.0,consultation
+42,gain d'information max,0,10.5,consultation
+42,gain d'information max,1,3.5,consultation
+42,gain d'information max,2,2.5,consultation
+42,gain d'information max,3,2.0,consultation
+43,gain d'information max,0,14.5,consultation
+43,gain d'information max,1,9.5,consultation
+43,gain d'information max,2,7.0,consultation
+43,gain d'information max,3,4.0,consultation
+44,gain d'information max,0,2.0,consultation
+44,gain d'information max,1,1.5,consultation
+44,gain d'information max,2,1.0,consultation
+44,gain d'information max,3,1.0,consultation
+45,gain d'information max,0,2.0,consultation
+45,gain d'information max,1,1.0,consultation
+45,gain d'information max,2,1.0,consultation
+45,gain d'information max,3,1.0,consultation
+46,gain d'information max,0,23.0,consultation
+46,gain d'information max,1,13.5,consultation
+46,gain d'information max,2,1260.0,consultation
+46,gain d'information max,3,137.5,consultation
+47,gain d'information max,0,44.5,consultation
+47,gain d'information max,1,32.0,consultation
+47,gain d'information max,2,26.5,consultation
+47,gain d'information max,3,6.5,consultation
+48,gain d'information max,0,66.0,consultation
+48,gain d'information max,1,25.0,consultation
+48,gain d'information max,2,15.5,consultation
+48,gain d'information max,3,10.5,consultation
+49,gain d'information max,0,2.0,consultation
+49,gain d'information max,1,1.0,consultation
+49,gain d'information max,2,1.0,consultation
+49,gain d'information max,3,232.0,consultation
+50,gain d'information max,0,6.5,consultation
+50,gain d'information max,1,4.5,consultation
+50,gain d'information max,2,2.5,consultation
+50,gain d'information max,3,1.5,consultation
+51,gain d'information max,0,5.5,consultation
+51,gain d'information max,1,3.5,consultation
+51,gain d'information max,2,6.5,consultation
+51,gain d'information max,3,232.0,consultation
+52,gain d'information max,0,3.0,consultation
+52,gain d'information max,1,2.0,consultation
+52,gain d'information max,2,1.5,consultation
+52,gain d'information max,3,1.0,consultation
+53,gain d'information max,0,613.0,consultation
+53,gain d'information max,1,878.5,consultation
+53,gain d'information max,2,402.5,consultation
+53,gain d'information max,3,981.0,consultation
+54,gain d'information max,0,23.5,consultation
+54,gain d'information max,1,15.5,consultation
+54,gain d'information max,2,24.5,consultation
+54,gain d'information max,3,19.5,consultation
+55,gain d'information max,0,5.5,consultation
+55,gain d'information max,1,4.0,consultation
+55,gain d'information max,2,2.5,consultation
+55,gain d'information max,3,1.5,consultation
+56,gain d'information max,0,2.5,consultation
+56,gain d'information max,1,1.5,consultation
+56,gain d'information max,2,1.0,consultation
+56,gain d'information max,3,1.0,consultation
+57,gain d'information max,0,9.0,consultation
+57,gain d'information max,1,3.5,consultation
+57,gain d'information max,2,15.5,consultation
+57,gain d'information max,3,9.5,consultation
+58,gain d'information max,0,3.5,consultation
+58,gain d'information max,1,2.5,consultation
+58,gain d'information max,2,1.5,consultation
+58,gain d'information max,3,1.0,consultation
+59,gain d'information max,0,49.5,consultation
+59,gain d'information max,1,46.0,consultation
+59,gain d'information max,2,23.0,consultation
+59,gain d'information max,3,11.0,consultation
+60,gain d'information max,0,2.0,consultation
+60,gain d'information max,1,1.5,consultation
+60,gain d'information max,2,1.5,consultation
+60,gain d'information max,3,1.0,consultation
+61,gain d'information max,0,11.5,consultation
+61,gain d'information max,1,2564.0,consultation
+61,gain d'information max,2,185.0,consultation
+61,gain d'information max,3,77.0,consultation
+62,gain d'information max,0,4.5,consultation
+62,gain d'information max,1,3.0,consultation
+62,gain d'information max,2,2.0,consultation
+62,gain d'information max,3,1.5,consultation
+63,gain d'information max,0,27.0,consultation
+63,gain d'information max,1,6.5,consultation
+63,gain d'information max,2,3.0,consultation
+63,gain d'information max,3,2.0,consultation
+64,gain d'information max,0,14.5,consultation
+64,gain d'information max,1,9.5,consultation
+64,gain d'information max,2,5.5,consultation
+64,gain d'information max,3,3.0,consultation
+65,gain d'information max,0,1.0,consultation
+65,gain d'information max,1,1.0,consultation
+65,gain d'information max,2,1.0,consultation
+65,gain d'information max,3,1.0,consultation
+66,gain d'information max,0,1.0,consultation
+66,gain d'information max,1,1.0,consultation
+66,gain d'information max,2,1.0,consultation
+66,gain d'information max,3,1.0,consultation
+67,gain d'information max,0,73.5,consultation
+67,gain d'information max,1,46.5,consultation
+67,gain d'information max,2,23.5,consultation
+67,gain d'information max,3,18.5,consultation
+68,gain d'information max,0,4.5,consultation
+68,gain d'information max,1,3.0,consultation
+68,gain d'information max,2,2.0,consultation
+68,gain d'information max,3,1.0,consultation
+69,gain d'information max,0,2.5,consultation
+69,gain d'information max,1,2.0,consultation
+69,gain d'information max,2,1.5,consultation
+69,gain d'information max,3,1.0,consultation
+70,gain d'information max,0,1.0,consultation
+70,gain d'information max,1,4352.0,consultation
+70,gain d'information max,2,27.0,consultation
+70,gain d'information max,3,2.0,consultation
+71,gain d'information max,0,6.5,consultation
+71,gain d'information max,1,3.5,consultation
+71,gain d'information max,2,1.5,consultation
+71,gain d'information max,3,1.0,consultation
+72,gain d'information max,0,5.5,consultation
+72,gain d'information max,1,2.5,consultation
+72,gain d'information max,2,1.5,consultation
+72,gain d'information max,3,1.0,consultation
+73,gain d'information max,0,1.0,consultation
+73,gain d'information max,1,1.0,consultation
+73,gain d'information max,2,1.0,consultation
+73,gain d'information max,3,1.0,consultation
+74,gain d'information max,0,2.0,consultation
+74,gain d'information max,1,1.5,consultation
+74,gain d'information max,2,1.0,consultation
+74,gain d'information max,3,1.0,consultation
+75,gain d'information max,0,6.0,consultation
+75,gain d'information max,1,4.0,consultation
+75,gain d'information max,2,2.0,consultation
+75,gain d'information max,3,1.5,consultation
+76,gain d'information max,0,4.5,consultation
+76,gain d'information max,1,2.0,consultation
+76,gain d'information max,2,1.5,consultation
+76,gain d'information max,3,1.0,consultation
+77,gain d'information max,0,218.5,consultation
+77,gain d'information max,1,86.5,consultation
+77,gain d'information max,2,52.0,consultation
+77,gain d'information max,3,34.5,consultation
+78,gain d'information max,0,1.0,consultation
+78,gain d'information max,1,1.0,consultation
+78,gain d'information max,2,1.0,consultation
+78,gain d'information max,3,1.0,consultation
+79,gain d'information max,0,55.0,consultation
+79,gain d'information max,1,32.5,consultation
+79,gain d'information max,2,322.0,consultation
+79,gain d'information max,3,168.5,consultation
+80,gain d'information max,0,97.5,consultation
+80,gain d'information max,1,73.0,consultation
+80,gain d'information max,2,46.0,consultation
+80,gain d'information max,3,21.0,consultation
+81,gain d'information max,0,41.0,consultation
+81,gain d'information max,1,21.5,consultation
+81,gain d'information max,2,12.0,consultation
+81,gain d'information max,3,5.0,consultation
+82,gain d'information max,0,10.0,consultation
+82,gain d'information max,1,7.5,consultation
+82,gain d'information max,2,8.0,consultation
+82,gain d'information max,3,6.0,consultation
+83,gain d'information max,0,28.5,consultation
+83,gain d'information max,1,19.0,consultation
+83,gain d'information max,2,14.0,consultation
+83,gain d'information max,3,9.0,consultation
+84,gain d'information max,0,13.5,consultation
+84,gain d'information max,1,3.0,consultation
+84,gain d'information max,2,2.5,consultation
+84,gain d'information max,3,1.5,consultation
+85,gain d'information max,0,319.5,consultation
+85,gain d'information max,1,283.0,consultation
+85,gain d'information max,2,215.0,consultation
+85,gain d'information max,3,140.0,consultation
+86,gain d'information max,0,4.0,consultation
+86,gain d'information max,1,3.0,consultation
+86,gain d'information max,2,2.0,consultation
+86,gain d'information max,3,1.5,consultation
+87,gain d'information max,0,71.5,consultation
+87,gain d'information max,1,54.5,consultation
+87,gain d'information max,2,24.5,consultation
+87,gain d'information max,3,24.5,consultation
+88,gain d'information max,0,1.0,consultation
+88,gain d'information max,1,1.0,consultation
+88,gain d'information max,2,1.0,consultation
+88,gain d'information max,3,1.0,consultation
+89,gain d'information max,0,3.0,consultation
+89,gain d'information max,1,3.0,consultation
+89,gain d'information max,2,2.0,consultation
+89,gain d'information max,3,4.0,consultation
+90,gain d'information max,0,3.5,consultation
+90,gain d'information max,1,2.0,consultation
+90,gain d'information max,2,1.0,consultation
+90,gain d'information max,3,1.0,consultation
+91,gain d'information max,0,31.5,consultation
+91,gain d'information max,1,14.5,consultation
+91,gain d'information max,2,8.0,consultation
+91,gain d'information max,3,3.5,consultation
+92,gain d'information max,0,1.5,consultation
+92,gain d'information max,1,1.0,consultation
+92,gain d'information max,2,1.0,consultation
+92,gain d'information max,3,1.0,consultation
+93,gain d'information max,0,14.5,consultation
+93,gain d'information max,1,5.0,consultation
+93,gain d'information max,2,3.0,consultation
+93,gain d'information max,3,2.0,consultation
+94,gain d'information max,0,10.5,consultation
+94,gain d'information max,1,4.5,consultation
+94,gain d'information max,2,2.0,consultation
+94,gain d'information max,3,1.5,consultation
+95,gain d'information max,0,6.0,consultation
+95,gain d'information max,1,182.5,consultation
+95,gain d'information max,2,260.5,consultation
+95,gain d'information max,3,444.5,consultation
+96,gain d'information max,0,136.0,consultation
+96,gain d'information max,1,82.5,consultation
+96,gain d'information max,2,36.0,consultation
+96,gain d'information max,3,19.5,consultation
+97,gain d'information max,0,46.5,consultation
+97,gain d'information max,1,38.0,consultation
+97,gain d'information max,2,17.0,consultation
+97,gain d'information max,3,8.5,consultation
+98,gain d'information max,0,2.5,consultation
+98,gain d'information max,1,1.5,consultation
+98,gain d'information max,2,1.5,consultation
+98,gain d'information max,3,8.0,consultation
+99,gain d'information max,0,104.0,consultation
+99,gain d'information max,1,20.5,consultation
+99,gain d'information max,2,4.0,consultation
+99,gain d'information max,3,4.0,consultation
+100,gain d'information max,0,5.5,consultation
+100,gain d'information max,1,3.0,consultation
+100,gain d'information max,2,1.5,consultation
+100,gain d'information max,3,1.5,consultation
+101,gain d'information max,0,30.5,consultation
+101,gain d'information max,1,16.0,consultation
+101,gain d'information max,2,6.0,consultation
+101,gain d'information max,3,4.0,consultation
+102,gain d'information max,0,15.0,consultation
+102,gain d'information max,1,10.0,consultation
+102,gain d'information max,2,7.5,consultation
+102,gain d'information max,3,5.0,consultation
+103,gain d'information max,0,907.5,consultation
+103,gain d'information max,1,672.5,consultation
+103,gain d'information max,2,587.5,consultation
+103,gain d'information max,3,272.0,consultation
+104,gain d'information max,0,31.0,consultation
+104,gain d'information max,1,17.5,consultation
+104,gain d'information max,2,13.5,consultation
+104,gain d'information max,3,10.0,consultation
+105,gain d'information max,0,1.5,consultation
+105,gain d'information max,1,1.0,consultation
+105,gain d'information max,2,1.0,consultation
+105,gain d'information max,3,1.0,consultation
+106,gain d'information max,0,4.5,consultation
+106,gain d'information max,1,3.0,consultation
+106,gain d'information max,2,2.0,consultation
+106,gain d'information max,3,2.0,consultation
+107,gain d'information max,0,3.5,consultation
+107,gain d'information max,1,1.5,consultation
+107,gain d'information max,2,1.0,consultation
+107,gain d'information max,3,1.0,consultation
+108,gain d'information max,0,2.5,consultation
+108,gain d'information max,1,1.0,consultation
+108,gain d'information max,2,1.0,consultation
+108,gain d'information max,3,27.0,consultation
+109,gain d'information max,0,10.5,consultation
+109,gain d'information max,1,5.0,consultation
+109,gain d'information max,2,3.5,consultation
+109,gain d'information max,3,2.5,consultation
+110,gain d'information max,0,16.0,consultation
+110,gain d'information max,1,7.0,consultation
+110,gain d'information max,2,4.0,consultation
+110,gain d'information max,3,3.0,consultation
+111,gain d'information max,0,29.5,consultation
+111,gain d'information max,1,17.0,consultation
+111,gain d'information max,2,3.5,consultation
+111,gain d'information max,3,3.0,consultation
+112,gain d'information max,0,1.0,consultation
+112,gain d'information max,1,1.0,consultation
+112,gain d'information max,2,1.0,consultation
+112,gain d'information max,3,1.0,consultation
+113,gain d'information max,0,47.5,consultation
+113,gain d'information max,1,19.0,consultation
+113,gain d'information max,2,12.5,consultation
+113,gain d'information max,3,10.5,consultation
+114,gain d'information max,0,70.0,consultation
+114,gain d'information max,1,51.0,consultation
+114,gain d'information max,2,185.0,consultation
+114,gain d'information max,3,70.5,consultation
+115,gain d'information max,0,1.0,consultation
+115,gain d'information max,1,1046.0,consultation
+115,gain d'information max,2,41.0,consultation
+115,gain d'information max,3,1.0,consultation
+116,gain d'information max,0,3.0,consultation
+116,gain d'information max,1,2.0,consultation
+116,gain d'information max,2,2.0,consultation
+116,gain d'information max,3,3.5,consultation
+117,gain d'information max,0,34.0,consultation
+117,gain d'information max,1,2803.0,consultation
+117,gain d'information max,2,4092.5,consultation
+117,gain d'information max,3,934.0,consultation
+118,gain d'information max,0,8.5,consultation
+118,gain d'information max,1,5.5,consultation
+118,gain d'information max,2,4.0,consultation
+118,gain d'information max,3,1.5,consultation
+119,gain d'information max,0,105.0,consultation
+119,gain d'information max,1,65.5,consultation
+119,gain d'information max,2,99.5,consultation
+119,gain d'information max,3,82.0,consultation
+120,gain d'information max,0,3.5,consultation
+120,gain d'information max,1,2.0,consultation
+120,gain d'information max,2,1.5,consultation
+120,gain d'information max,3,1.0,consultation
+121,gain d'information max,0,2.5,consultation
+121,gain d'information max,1,10.0,consultation
+121,gain d'information max,2,7.0,consultation
+121,gain d'information max,3,6.0,consultation
+122,gain d'information max,0,1.0,consultation
+122,gain d'information max,1,1.0,consultation
+122,gain d'information max,2,1.0,consultation
+122,gain d'information max,3,1.0,consultation
+123,gain d'information max,0,48.5,consultation
+123,gain d'information max,1,25.0,consultation
+123,gain d'information max,2,16.5,consultation
+123,gain d'information max,3,9.5,consultation
+124,gain d'information max,0,65.0,consultation
+124,gain d'information max,1,53.5,consultation
+124,gain d'information max,2,43.5,consultation
+124,gain d'information max,3,20.5,consultation
+125,gain d'information max,0,20.5,consultation
+125,gain d'information max,1,7.5,consultation
+125,gain d'information max,2,4.5,consultation
+125,gain d'information max,3,2.5,consultation
+126,gain d'information max,0,29.5,consultation
+126,gain d'information max,1,21.0,consultation
+126,gain d'information max,2,10.0,consultation
+126,gain d'information max,3,5.0,consultation
+127,gain d'information max,0,1.5,consultation
+127,gain d'information max,1,1.0,consultation
+127,gain d'information max,2,1.0,consultation
+127,gain d'information max,3,1.0,consultation
+128,gain d'information max,0,2.0,consultation
+128,gain d'information max,1,1.0,consultation
+128,gain d'information max,2,1.0,consultation
+128,gain d'information max,3,1.0,consultation
+129,gain d'information max,0,1.0,consultation
+129,gain d'information max,1,1.0,consultation
+129,gain d'information max,2,1.0,consultation
+129,gain d'information max,3,1.0,consultation
+130,gain d'information max,0,53.5,consultation
+130,gain d'information max,1,26.5,consultation
+130,gain d'information max,2,18.5,consultation
+130,gain d'information max,3,9.0,consultation
+131,gain d'information max,0,23.0,consultation
+131,gain d'information max,1,9.5,consultation
+131,gain d'information max,2,3.5,consultation
+131,gain d'information max,3,1.5,consultation
+132,gain d'information max,0,1.0,consultation
+132,gain d'information max,1,1.0,consultation
+132,gain d'information max,2,1.0,consultation
+132,gain d'information max,3,4354.0,consultation
+133,gain d'information max,0,3.5,consultation
+133,gain d'information max,1,2.0,consultation
+133,gain d'information max,2,1.5,consultation
+133,gain d'information max,3,1.0,consultation
+134,gain d'information max,0,1.5,consultation
+134,gain d'information max,1,1.0,consultation
+134,gain d'information max,2,1.0,consultation
+134,gain d'information max,3,1.0,consultation
+135,gain d'information max,0,3.5,consultation
+135,gain d'information max,1,2.5,consultation
+135,gain d'information max,2,2.0,consultation
+135,gain d'information max,3,1.5,consultation
+136,gain d'information max,0,3.5,consultation
+136,gain d'information max,1,2.5,consultation
+136,gain d'information max,2,1.5,consultation
+136,gain d'information max,3,1.0,consultation
+137,gain d'information max,0,14.5,consultation
+137,gain d'information max,1,8.5,consultation
+137,gain d'information max,2,5.0,consultation
+137,gain d'information max,3,2.5,consultation
+138,gain d'information max,0,5.5,consultation
+138,gain d'information max,1,4.0,consultation
+138,gain d'information max,2,2.0,consultation
+138,gain d'information max,3,1.0,consultation
+139,gain d'information max,0,11.0,consultation
+139,gain d'information max,1,7.0,consultation
+139,gain d'information max,2,17.0,consultation
+139,gain d'information max,3,6.0,consultation
+140,gain d'information max,0,5.5,consultation
+140,gain d'information max,1,3.5,consultation
+140,gain d'information max,2,2.0,consultation
+140,gain d'information max,3,1.5,consultation
+141,gain d'information max,0,34.0,consultation
+141,gain d'information max,1,521.5,consultation
+141,gain d'information max,2,58.0,consultation
+141,gain d'information max,3,53.0,consultation
+142,gain d'information max,0,8.5,consultation
+142,gain d'information max,1,3.5,consultation
+142,gain d'information max,2,2.0,consultation
+142,gain d'information max,3,2.0,consultation
+143,gain d'information max,0,8.0,consultation
+143,gain d'information max,1,4.0,consultation
+143,gain d'information max,2,97.5,consultation
+143,gain d'information max,3,36.5,consultation
+144,gain d'information max,0,59.0,consultation
+144,gain d'information max,1,36.5,consultation
+144,gain d'information max,2,14.5,consultation
+144,gain d'information max,3,9.5,consultation
+145,gain d'information max,0,4.0,consultation
+145,gain d'information max,1,55.0,consultation
+145,gain d'information max,2,52.0,consultation
+145,gain d'information max,3,41.0,consultation
+146,gain d'information max,0,33.5,consultation
+146,gain d'information max,1,25.5,consultation
+146,gain d'information max,2,8.0,consultation
+146,gain d'information max,3,5.5,consultation
+147,gain d'information max,0,19.5,consultation
+147,gain d'information max,1,14.0,consultation
+147,gain d'information max,2,8.0,consultation
+147,gain d'information max,3,4.5,consultation
+148,gain d'information max,0,3.0,consultation
+148,gain d'information max,1,1.0,consultation
+148,gain d'information max,2,1.0,consultation
+148,gain d'information max,3,1.0,consultation
+149,gain d'information max,0,7.0,consultation
+149,gain d'information max,1,4.0,consultation
+149,gain d'information max,2,3.0,consultation
+149,gain d'information max,3,2.5,consultation
+150,gain d'information max,0,8.0,consultation
+150,gain d'information max,1,4.0,consultation
+150,gain d'information max,2,3.5,consultation
+150,gain d'information max,3,1.5,consultation
+151,gain d'information max,0,2.0,consultation
+151,gain d'information max,1,1.5,consultation
+151,gain d'information max,2,1.0,consultation
+151,gain d'information max,3,1.0,consultation
+152,gain d'information max,0,7.5,consultation
+152,gain d'information max,1,5.0,consultation
+152,gain d'information max,2,2.5,consultation
+152,gain d'information max,3,2.0,consultation
+153,gain d'information max,0,1.0,consultation
+153,gain d'information max,1,1.0,consultation
+153,gain d'information max,2,1.0,consultation
+153,gain d'information max,3,1.0,consultation
+154,gain d'information max,0,17.5,consultation
+154,gain d'information max,1,10.5,consultation
+154,gain d'information max,2,4.5,consultation
+154,gain d'information max,3,2.0,consultation
+155,gain d'information max,0,1.0,consultation
+155,gain d'information max,1,1.0,consultation
+155,gain d'information max,2,1.0,consultation
+155,gain d'information max,3,1.0,consultation
+156,gain d'information max,0,170.5,consultation
+156,gain d'information max,1,52.0,consultation
+156,gain d'information max,2,22.5,consultation
+156,gain d'information max,3,17.5,consultation
+157,gain d'information max,0,5.0,consultation
+157,gain d'information max,1,4.5,consultation
+157,gain d'information max,2,3.0,consultation
+157,gain d'information max,3,2.0,consultation
+158,gain d'information max,0,1.0,consultation
+158,gain d'information max,1,1.0,consultation
+158,gain d'information max,2,11.0,consultation
+158,gain d'information max,3,1.0,consultation
+159,gain d'information max,0,1.0,consultation
+159,gain d'information max,1,1.0,consultation
+159,gain d'information max,2,1.0,consultation
+159,gain d'information max,3,1.0,consultation
+160,gain d'information max,0,26.5,consultation
+160,gain d'information max,1,17.5,consultation
+160,gain d'information max,2,8.0,consultation
+160,gain d'information max,3,4.5,consultation
+161,gain d'information max,0,6.5,consultation
+161,gain d'information max,1,4.0,consultation
+161,gain d'information max,2,2.5,consultation
+161,gain d'information max,3,1.5,consultation
+162,gain d'information max,0,2.0,consultation
+162,gain d'information max,1,1.5,consultation
+162,gain d'information max,2,1.0,consultation
+162,gain d'information max,3,1.0,consultation
+163,gain d'information max,0,33.5,consultation
+163,gain d'information max,1,17.5,consultation
+163,gain d'information max,2,11.5,consultation
+163,gain d'information max,3,4.0,consultation
+164,gain d'information max,0,8.0,consultation
+164,gain d'information max,1,4.5,consultation
+164,gain d'information max,2,3.5,consultation
+164,gain d'information max,3,2.0,consultation
+165,gain d'information max,0,244.5,consultation
+165,gain d'information max,1,119.5,consultation
+165,gain d'information max,2,81.5,consultation
+165,gain d'information max,3,46.0,consultation
+166,gain d'information max,0,15.0,consultation
+166,gain d'information max,1,8.5,consultation
+166,gain d'information max,2,5.0,consultation
+166,gain d'information max,3,2.0,consultation
+167,gain d'information max,0,6.5,consultation
+167,gain d'information max,1,4.5,consultation
+167,gain d'information max,2,2.5,consultation
+167,gain d'information max,3,2.0,consultation
+168,gain d'information max,0,21.0,consultation
+168,gain d'information max,1,13.0,consultation
+168,gain d'information max,2,10.0,consultation
+168,gain d'information max,3,7.5,consultation
+169,gain d'information max,0,19.5,consultation
+169,gain d'information max,1,8.5,consultation
+169,gain d'information max,2,4.0,consultation
+169,gain d'information max,3,3.5,consultation
+170,gain d'information max,0,43.5,consultation
+170,gain d'information max,1,36.5,consultation
+170,gain d'information max,2,26.0,consultation
+170,gain d'information max,3,11.5,consultation
+171,gain d'information max,0,2.0,consultation
+171,gain d'information max,1,1.5,consultation
+171,gain d'information max,2,1.0,consultation
+171,gain d'information max,3,1.0,consultation
+172,gain d'information max,0,6.0,consultation
+172,gain d'information max,1,2.0,consultation
+172,gain d'information max,2,1.5,consultation
+172,gain d'information max,3,1.5,consultation
+173,gain d'information max,0,7.0,consultation
+173,gain d'information max,1,5.0,consultation
+173,gain d'information max,2,531.5,consultation
+173,gain d'information max,3,46.0,consultation
+174,gain d'information max,0,23.5,consultation
+174,gain d'information max,1,16.5,consultation
+174,gain d'information max,2,7.0,consultation
+174,gain d'information max,3,4.0,consultation
+175,gain d'information max,0,7.0,consultation
+175,gain d'information max,1,19.5,consultation
+175,gain d'information max,2,3.0,consultation
+175,gain d'information max,3,3.0,consultation
+176,gain d'information max,0,17.5,consultation
+176,gain d'information max,1,8.0,consultation
+176,gain d'information max,2,3.5,consultation
+176,gain d'information max,3,2.5,consultation
+177,gain d'information max,0,49.5,consultation
+177,gain d'information max,1,7.5,consultation
+177,gain d'information max,2,4.5,consultation
+177,gain d'information max,3,2.5,consultation
+178,gain d'information max,0,20.5,consultation
+178,gain d'information max,1,818.5,consultation
+178,gain d'information max,2,42.5,consultation
+178,gain d'information max,3,37.5,consultation
+179,gain d'information max,0,35.0,consultation
+179,gain d'information max,1,17.0,consultation
+179,gain d'information max,2,8.5,consultation
+179,gain d'information max,3,5.5,consultation
+180,gain d'information max,0,1.5,consultation
+180,gain d'information max,1,1.0,consultation
+180,gain d'information max,2,1.0,consultation
+180,gain d'information max,3,1.0,consultation
+181,gain d'information max,0,14.5,consultation
+181,gain d'information max,1,10.0,consultation
+181,gain d'information max,2,8.0,consultation
+181,gain d'information max,3,4.0,consultation
+182,gain d'information max,0,10.5,consultation
+182,gain d'information max,1,5.0,consultation
+182,gain d'information max,2,2.5,consultation
+182,gain d'information max,3,2.0,consultation
+183,gain d'information max,0,8.0,consultation
+183,gain d'information max,1,4.0,consultation
+183,gain d'information max,2,3.0,consultation
+183,gain d'information max,3,2.0,consultation
+184,gain d'information max,0,44.0,consultation
+184,gain d'information max,1,38.0,consultation
+184,gain d'information max,2,85.5,consultation
+184,gain d'information max,3,58.0,consultation
+185,gain d'information max,0,110.0,consultation
+185,gain d'information max,1,45.0,consultation
+185,gain d'information max,2,24.5,consultation
+185,gain d'information max,3,14.0,consultation
+186,gain d'information max,0,2.5,consultation
+186,gain d'information max,1,2.0,consultation
+186,gain d'information max,2,1.5,consultation
+186,gain d'information max,3,1.0,consultation
+187,gain d'information max,0,4.5,consultation
+187,gain d'information max,1,2.5,consultation
+187,gain d'information max,2,1.5,consultation
+187,gain d'information max,3,1.0,consultation
+188,gain d'information max,0,78.0,consultation
+188,gain d'information max,1,105.5,consultation
+188,gain d'information max,2,94.0,consultation
+188,gain d'information max,3,59.5,consultation
+189,gain d'information max,0,3.0,consultation
+189,gain d'information max,1,1.5,consultation
+189,gain d'information max,2,1.0,consultation
+189,gain d'information max,3,1.0,consultation
+190,gain d'information max,0,134.5,consultation
+190,gain d'information max,1,41.5,consultation
+190,gain d'information max,2,29.0,consultation
+190,gain d'information max,3,19.5,consultation
+191,gain d'information max,0,1.0,consultation
+191,gain d'information max,1,1.0,consultation
+191,gain d'information max,2,1.0,consultation
+191,gain d'information max,3,1.0,consultation
+192,gain d'information max,0,2.5,consultation
+192,gain d'information max,1,2.0,consultation
+192,gain d'information max,2,1.5,consultation
+192,gain d'information max,3,1.0,consultation
+193,gain d'information max,0,1.5,consultation
+193,gain d'information max,1,1.0,consultation
+193,gain d'information max,2,1.0,consultation
+193,gain d'information max,3,1.0,consultation
+194,gain d'information max,0,24.5,consultation
+194,gain d'information max,1,11.0,consultation
+194,gain d'information max,2,7.0,consultation
+194,gain d'information max,3,2.5,consultation
+195,gain d'information max,0,2.5,consultation
+195,gain d'information max,1,1.0,consultation
+195,gain d'information max,2,1.0,consultation
+195,gain d'information max,3,1.0,consultation
+196,gain d'information max,0,2.0,consultation
+196,gain d'information max,1,1.0,consultation
+196,gain d'information max,2,1.0,consultation
+196,gain d'information max,3,1.0,consultation
+197,gain d'information max,0,6.5,consultation
+197,gain d'information max,1,4.0,consultation
+197,gain d'information max,2,32.0,consultation
+197,gain d'information max,3,32.0,consultation
+198,gain d'information max,0,110.0,consultation
+198,gain d'information max,1,47.5,consultation
+198,gain d'information max,2,26.0,consultation
+198,gain d'information max,3,11.5,consultation
+199,gain d'information max,0,1.0,consultation
+199,gain d'information max,1,114.0,consultation
+199,gain d'information max,2,6.0,consultation
+199,gain d'information max,3,1.0,consultation

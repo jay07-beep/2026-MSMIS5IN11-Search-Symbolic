@@ -1,0 +1,74 @@
+format-version: 1.2
+data-version: toy/2026-01-01
+
+[Term]
+id: HP:0000001
+name: All
+
+[Term]
+id: HP:0000118
+name: Phenotypic abnormality
+is_a: HP:0000001 ! All
+
+[Term]
+id: HP:0000005
+name: Mode of inheritance
+is_a: HP:0000001 ! All
+
+[Term]
+id: HP:9000010
+name: Abnormality of the eye
+is_a: HP:0000118 ! Phenotypic abnormality
+
+[Term]
+id: HP:9000011
+name: Abnormality of the lens
+is_a: HP:9000010 ! Abnormality of the eye
+
+[Term]
+id: HP:9000012
+name: Ectopia lentis
+alt_id: HP:9000098
+def: "Displacement of the lens." []
+is_a: HP:9000011 ! Abnormality of the lens
+
+[Term]
+id: HP:9000013
+name: Myopia
+is_a: HP:9000010 ! Abnormality of the eye
+
+[Term]
+id: HP:9000020
+name: Abnormality of the skeleton
+is_a: HP:0000118 ! Phenotypic abnormality
+
+[Term]
+id: HP:9000021
+name: Long fingers
+is_a: HP:9000020 ! Abnormality of the skeleton
+
+[Term]
+id: HP:9000030
+name: Abnormality of growth
+is_a: HP:0000118 ! Phenotypic abnormality
+
+[Term]
+id: HP:9000022
+name: Tall stature
+is_a: HP:9000020 ! Abnormality of the skeleton
+is_a: HP:9000030 ! Abnormality of growth
+
+[Term]
+id: HP:9000040
+name: Abnormality of the skin
+is_a: HP:0000118 ! Phenotypic abnormality
+
+[Term]
+id: HP:9000099
+name: obsolete Short sight
+is_obsolete: true
+replaced_by: HP:9000013
+
+[Typedef]
+id: part_of
+name: part of
